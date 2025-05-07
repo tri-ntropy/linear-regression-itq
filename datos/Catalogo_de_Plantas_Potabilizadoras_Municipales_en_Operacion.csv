@@ -1,0 +1,990 @@
+Estado,Municipio,Localidad,Nombre de la Planta,"Capacidad Inst.
+(lt/s)",Caudal Potabilizado (lt/s),Proceso Potabilización
+Aguascalientes,San José de Gracia,San José de Gracia,San José de Gracia ,20.0,19.0,Clarificación Convencional con Sedimentación
+Baja California,Ensenada,Ensenada,Presa Emilio López Zamora,150.0,33.0,Clarificación Convencional con Sedimentación
+Baja California,Ensenada,Ensenada,Ensenada,250.0,200.0,Desaladora
+Baja California,Ensenada,Isla de Cedros,Desaladora Isla de Cedros,4.6,1.0,Desaladora
+Baja California,Ensenada,Nuevo Centro de Población Padre Kino,Padre Kino,10.0,2.0,Desaladora
+Baja California,Mexicali,Ciudad Coahuila (Kilómetro Cincuenta Y Siete),Estación Coahuila,35.0,6.0,Filtración Directa
+Baja California,Mexicali,Ciudad Guadalupe Victoria (Kilómetro Cuarenta y Tres),Guadalupe Victoria,250.0,146.5,Clarificación Convencional con Sedimentación
+Baja California,Mexicali,Ciudad Morelos (Cuervos),Ciudad Morelos 1,50.0,13.8,Filtración Directa
+Baja California,Mexicali,Ciudad Morelos (Cuervos),Ciudad Morelos 2,50.0,32.1,Filtración Directa
+Baja California,Mexicali,Colonia 6 Granjas Lázaro Cárdenas,Cerro Prieto # 6,5.0,0.9,Filtración Directa
+Baja California,Mexicali,Colonia Miguel Alemán,Miguel Alemán,6.0,4.7,Filtración Directa
+Baja California,Mexicali,Colonia Silva Sur (Las Playitas),Silva Sur,3.0,0.7,Filtración Directa
+Baja California,Mexicali,Comunidad indígena Cucapa El Mayor,Cucapah El Mayor,5.0,1.1,Filtración Directa
+Baja California,Mexicali,Delta (Estación Delta),Delta,15.0,9.0,Otro
+Baja California,Mexicali,Delta (Estación Delta),Ejido Oaxaca,15.0,4.0,Otro
+Baja California,Mexicali,Ejido Benito Juárez,Benito Juárez,5.0,0.8,Filtración Directa
+Baja California,Mexicali,Ejido Chiapas 2 (Las Cachoras),Chiapas II,10.0,8.6,Filtración Directa
+Baja California,Mexicali,Ejido Colima 1,Colima,15.0,6.7,Filtración Directa
+Baja California,Mexicali,Ejido Hipólito Rentería,Hipólito Rentería,18.0,5.4,Filtración Directa
+Baja California,Mexicali,Ejido Irapuato,Irapuato,10.0,5.2,Filtración Directa
+Baja California,Mexicali,Ejido Jalapa,Jalapa,10.0,3.6,Filtración Directa
+Baja California,Mexicali,Ejido Jiquilpan,Jiquilpan,17.0,5.2,Filtración Directa
+Baja California,Mexicali,Ejido Miguel Hidalgo,Miguel Hidalgo,5.0,0.8,Filtración Directa
+Baja California,Mexicali,Ejido Querétaro,Querétaro,5.0,2.5,Otro
+Baja California,Mexicali,Ejido Querétaro,Querétaro Nueva,3.0,2.0,Otro
+Baja California,Mexicali,Ejido Querétaro,Hechicera,3.0,1.5,Otro
+Baja California,Mexicali,Ejido República Mexicana,República Mexicana,70.0,28.1,Filtración Directa
+Baja California,Mexicali,Ejido Sinaloa (Estación Kasey),Ej. Sinaloa,10.0,4.5,Otro
+Baja California,Mexicali,Familia Roque Contreras (Colonia Silva),Silva Norte,5.0,0.6,Filtración Directa
+Baja California,Mexicali,Mesa Arenosa de Andrade (Villa Zapata),Villa Zapata,17.5,3.5,Filtración Directa
+Baja California,Mexicali,Mexicali,Planta Potabilizadora No. I,1250.0,212.4,Clarificación Convencional con Sedimentación
+Baja California,Mexicali,Mexicali,Planta Potabilizadora No. 2,2500.0,1967.4,Filtración Directa
+Baja California,Mexicali,Mexicali,Planta Potabilizadora No. 3,1250.0,864.4,Clarificación Convencional con Sedimentación
+Baja California,Mexicali,Michoacán de Ocampo,Michoacán de Ocampo,20.0,10.0,Filtración Directa
+Baja California,Mexicali,Nuevo León,Nuevo León,100.0,35.1,Clarificación Convencional con Sedimentación
+Baja California,Mexicali,Poblado Paredones,Ciudad Victoria,40.0,14.3,Filtración Directa
+Baja California,Mexicali,Veracruz Uno,Veracruz 1,25.0,3.7,Clarificación Convencional con Sedimentación
+Baja California,Tecate,Cereso del Hongo,El Hongo,40.0,24.0,Clarificación Convencional con Sedimentación
+Baja California,Tecate,Tecate,Cuchumá,100.0,50.0,Clarificación Convencional con Sedimentación
+Baja California,Tecate,Tecate,Las Auras o La Nopalera,175.0,178.0,Clarificación Convencional con Sedimentación
+Baja California,Tijuana,Tijuana,El Florido,5350.0,4764.0,Clarificación Convencional con Sedimentación
+Baja California,Tijuana,Tijuana,Monte Los Olivos,120.0,33.0,Filtración Directa
+Baja California,Tijuana,Tijuana,San Pedro,125.0,20.0,Clarificación Convencional con Sedimentación
+Baja California Sur,Comondú,La Purísima,La Purisima,0.6,0.6,Desaladora
+Baja California Sur,Comondú,Las Barrancas,Las Barrancas,0.2,0.2,Ósmosis Inversa
+Baja California Sur,Comondú,Puerto Alcatraz II (Isla Santa Margarita),Puerto Alcatraz II,0.5,0.5,Desaladora
+Baja California Sur,Comondú,Puerto Magdalena (Bahía Magdalena),Bahía Magdalena,0.5,0.5,Desaladora
+Baja California Sur,Comondú,San Isidro,San Isidro,5.0,5.0,Filtración Directa
+Baja California Sur,Comondú,San Miguel de Comondú (Los Comondú),San Miguel de Comondú,0.4,0.2,Desaladora
+Baja California Sur,La Paz,Agua Amarga, Agua Amarga,0.6,0.0,Desaladora
+Baja California Sur,La Paz,Boca del Álamo,Boca del Alamo,0.2,0.1,Ósmosis Inversa
+Baja California Sur,La Paz,El Cardonal,El Cardonal,1.2,0.2,Ósmosis Inversa
+Baja California Sur,La Paz,El Centenario,Potabilizadora El Centenario,40.0,28.2,Filtración Directa
+Baja California Sur,La Paz,El Sargento ,El Sargento-La Ventana,3.5,0.3,Desaladora
+Baja California Sur,La Paz,El Triunfo,El Triunfo,0.6,0.0,Desaladora
+Baja California Sur,La Paz,General Juan Domínguez Cota,Gral. Juan Domínguez Cota,0.6,0.0,Desaladora
+Baja California Sur,La Paz,Las Pocitas,Las Pocitas,0.01,0.01,Ósmosis Inversa
+Baja California Sur,La Paz,Puerto Chale,Puerto Chale,0.6,0.1,Ósmosis Inversa
+Baja California Sur,La Paz,San Antonio,San Antonio,0.6,0.0,Desaladora
+Baja California Sur,La Paz,San Evaristo,San Evaristo,0.5,0.1,Desaladora
+Baja California Sur,Los Cabos,Cabo San Lucas,Planta Desaladora Cabo San Lucas I,200.0,150.0,Desaladora
+Baja California Sur,Los Cabos,San José del Cabo,"Planta Potabilizadora ""San Lázaro""",80.0,65.0,Clarificación convencional con Sistema de Flotación con Aire Disuelto (DAF)
+Baja California Sur,Mulegé,Campo Delgadito,El Delgadito,0.2,0.1,Desaladora
+Baja California Sur,Mulegé,El Cardón,El Cardon,0.5,0.5,Desaladora
+Baja California Sur,Mulegé,Natividad (Isala Natividad),Isla Natividad ,1.7,1.2,Desaladora
+Baja California Sur,Mulegé,Natividad (Isla Natividad),Isla Natividad,1.2,1.2,Desaladora
+Baja California Sur,Mulegé,Natividad (Isla Natividad),Isla Natividad,17.4,17.4,Desaladora
+Campeche,Palizada,Ribera San Eduardo,San Eduardo,3.0,3.0,Ósmosis Inversa
+Chiapas,Chiapa de Corzo,Chiapa de Corzo,Jardines del Grijalva,65.0,60.0,Clarificación Convencional con Sedimentación
+Chiapas,San Fernando,San Fernando,San Fernando,220.0,80.0,Clarificación Convencional con Sedimentación
+Chiapas,Tapachula,Tapachula de Córdova y Ordoñez,Tapachula,1000.0,650.0,Clarificación Convencional con Sedimentación
+Chiapas,Tuxtla Gutiérrez,Tuxtla Gutiérrez,"Tuxtla Gutiérrez I, Los Pájaros",1000.0,387.0,Clarificación Convencional con Sedimentación
+Chiapas,Tuxtla Gutiérrez,Tuxtla Gutiérrez,Ciudad del Agua - Juan Sabines Gutiérrez,2000.0,2000.0,Clarificación Convencional con Sedimentación
+Chihuahua,Bocoyna,Creel,Situriachi,70.0,50.0,Clarificación Convencional con Sedimentación
+Chihuahua,Camargo,Santa Rosalía de Camargo,Camargo,60.0,50.0,Filtración Directa
+Chihuahua,Chihuahua,Chihuahua,Chihuahua Norte,120.0,60.0,Filtración Directa
+Chihuahua,Guachochi,Guachochi,Guachochi,30.0,15.0,Filtración Directa
+Chihuahua,Hidalgo del Parral,Hidalgo del Parral,Parral,245.0,123.4,Clarificación Convencional con Sedimentación
+Chihuahua,Hidalgo del Parral,Hidalgo del Parral,Mina La Prieta,43.0,24.0,Clarificación Convencional con Sedimentación
+Ciudad de México (Distrito Federal),Azcapotzalco,Azcapotzalco,Trabajadores del Hierro,50.0,25.0,Filtración Directa
+Ciudad de México (Distrito Federal),Azcapotzalco,Azcapotzalco,Deportivo Ferrería,50.0,50.0,Filtración Directa
+Ciudad de México (Distrito Federal),Gustavo A. Madero,Gustavo A. Madero,Jardines Del Pedregal 5,80.0,65.0,Filtración Directa
+Ciudad de México (Distrito Federal),Gustavo A. Madero,Gustavo A. Madero,Panamericana,50.0,34.0,Filtración Directa
+Ciudad de México (Distrito Federal),Gustavo A. Madero,Gustavo A. Madero,Parque Vía Vallejo,40.0,40.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztacalco,Iztacalco,Tlacotal,60.0,50.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),Iztacalco,Iztacalco,Viga 4,60.0,25.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztacalco,Iztacalco,Ciudad Deportiva 2,100.0,37.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Carlos L. Gracidas,38.0,38.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Cerro de La Estrella 2,60.0,32.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Granjas San Antonio,60.0,25.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Iztapalapa 1,60.0,25.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Iztapalapa 2,60.0,9.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,La Caldera,700.0,540.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Purísima 2,60.0,37.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Purísima 3 Y 7,135.0,70.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Santa Catarina 11,40.0,41.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Sta. Cruz Meyehualco,120.0,56.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Viga 2,40.0,40.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Xaltepec,500.0,500.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Santa Catarina 10,60.0,33.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Santa Catarina 13,60.0,51.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,San Lorenzo Tezonco,6.0,6.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,San Lorenzo Tezonco Nuevo,60.0,12.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Tecomitl 2,60.0,30.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Auxiliar Xotepingo 4C,50.0,50.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa,Parque Las Antenas,30.0,22.0,Filtración Directa
+Ciudad de México (Distrito Federal),Iztapalapa,Iztapalapa2,Agrícola Oriental,240.0,220.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),La Magdalena Contreras,La Magdalena Contreras,Río Magdalena,210.0,210.0,Filtración Directa
+Ciudad de México (Distrito Federal),La Magdalena Contreras,La Magdalena Contreras,Río Magdalena 2,200.0,150.0,Filtración Directa
+Ciudad de México (Distrito Federal),Tláhuac,Tláhuac,Santa Catarina,500.0,86.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),Tláhuac,Tláhuac,Tecomitl 18,50.0,43.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),Venustiano Carranza,Venustiano Carranza,Balbuena 2,40.0,40.0,Filtración Directa
+Ciudad de México (Distrito Federal),Venustiano Carranza,Venustiano Carranza,Vista Alegre,40.0,26.0,Ósmosis Inversa
+Ciudad de México (Distrito Federal),Venustiano Carranza,Venustiano Carranza,Santa Anita,40.0,29.0,Filtración Directa
+Ciudad de México (Distrito Federal),Xochimilco,Xochimilco,Escudo Nacional 2,40.0,40.0,Filtración Directa
+Ciudad de México (Distrito Federal),Xochimilco,Xochimilco,S-13,40.0,40.0,Adsorción
+Ciudad de México (Distrito Federal),Xochimilco,Xochimilco,Cerillos 2,40.0,40.0,Filtración Directa
+Ciudad de México (Distrito Federal),Xochimilco,Xochimilco,Cerillos 3,40.0,40.0,Filtración Directa
+Ciudad de México (Distrito Federal),Xochimilco,Xochimilco,San Luis Nuevo,60.0,60.0,Filtración Directa
+Ciudad de México (Distrito Federal),Xochimilco,Xochimilco,R-11,40.0,40.0,Filtración Directa
+Coahuila de Zaragoza,Abasolo,Abasolo,Abasolo,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Abasolo,Los Rodríguez,Los Rodríguez,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Acuña,Ciudad Acuña,Ciudad Acuña,143.0,143.0,Clarificación Convencional con Sedimentación
+Coahuila de Zaragoza,Acuña,Ciudad Acuña,La Amistad,500.0,500.0,Clarificación Convencional con Sedimentación
+Coahuila de Zaragoza,Allende,Allende,Allende,125.0,80.0,Filtración Directa
+Coahuila de Zaragoza,Arteaga,La Presa,Ej. La Presa,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Candela,Candela,Candela,0.4,0.4,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Candela,El Huizachal,Ej. El Huizachal,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Castaños,Acamabaro (Acambaro Viejo),Acambaro,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Cuatrocienegas,Antiguos Mineros del Norte (Santa Tecla),Antiguos Mineros,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Cuatrocienegas,Cuates de Australia,Cuates de Australia,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Cuatrocienegas,El Oso,El Oso,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Cuatrocienegas,El Venado,El Venado,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Cuatrocienegas,Estanque de Palomas (Las Palomas),Estanque Palomas,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Cuatrocienegas,La Vega,La Vega,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Cuatrocienegas,La Victoria,La Victoria,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Cuatrocienegas,San Juan de Boquillas (San Juan),San Juan de Boquillas,0.1,0.1,Ósmosis Inversa
+Coahuila de Zaragoza,Cuatrocienegas,San Vicente,San Vicente ,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Cuatrocienegas,Santa Teresa de Sofía,Santa Teresa de Sofía,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Cuatrocienegas,Tanque Nueo (El Cinco),Tanque Nuevo,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Escobedo,Agua de La Herradura,Agua de La Herradura,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Escobedo,Escobedo,Escobedo,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Escobedo,Primera de Mayo,1ro. de Mayo,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Francisco I. Madero,Batopilas,Batopilas,0.4,0.4,Ósmosis Inversa
+Coahuila de Zaragoza,Francisco I. Madero,Charcos de Risa,Charcos de Risa,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Francisco I. Madero,Florencia,Florencia,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Francisco I. Madero,Florencia,Florencia,0.1,0.1,Ósmosis Inversa
+Coahuila de Zaragoza,General Cepeda,La Hedionda Chica,La Hedionda Chica,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,General Cepeda,La Noria de La Sabina,Noria de La Sabina,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,General Cepeda,Marte (Estación Marte),Estación Marte,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,General Cepeda,San Antonio del Jaral (San Antonio),San Antonio del Jaral,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,General Cepeda,Tanque San Vicente (San Vicente),Tanque San Vicente ,0.1,0.1,Ósmosis Inversa
+Coahuila de Zaragoza,Guerrero,Guadalupe,Guadalupe   ,0.1,0.1,Ósmosis Inversa
+Coahuila de Zaragoza,Guerrero,San Vicente,San Vicente,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Hidalgo,Hidalgo,Villa Hidalgo,36.0,36.0,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Jiménez,Jiménez,Jiménez,15.0,15.0,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Juárez,Don Martín,Don Martín,1.3,1.3,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Juárez,Don Martín,Don Martín,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Juárez,El Álamo,El Alamo,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Juárez,Juárez,Juárez,3.3,3.3,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Juárez,Santa Rita,Santa Rita,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Matamoros,Hormiguero,Hormiguero,0.4,0.4,Ósmosis Inversa
+Coahuila de Zaragoza,Matamoros,Hormiguero,Hormiguero,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Monclova,El Oro,El Oro,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Nadadores,Nuevo Poblado de Sardinas,Sardinas,0.1,0.1,Ósmosis Inversa
+Coahuila de Zaragoza,Nadadores,Nuevo Poblado de Sardinas,Sardinas,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Nadadores,San José del Águila,San José del Águila,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Nava,Nava,Nava,100.0,80.0,Clarificación Convencional con Sedimentación
+Coahuila de Zaragoza,Ocampo,Charcos de Figueroa (Falcón),Charcos de Figueroa,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ocampo,Chula Vista,Chula Vista,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ocampo,El Alicante,El Alicante,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ocampo,El Socorro,El Socorro,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ocampo,La Rosita,La Rosita,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ocampo,La Unión y El Olan,La Unión Y El Olan,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ocampo,Las Eutimias,Las Eutimias,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ocampo,San Miguel,San Miguel,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ocampo,San Vicente y Zacatonal,San Vicente,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,Boquillas del Fuego,Boquillas del Refugio,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,Cuatro de Marzo,4 de Marzo,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,El Porvenir de Abajo,Porvenir de Abajo,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,El Siete de Enero (El Mezquite),Siete de Enero ,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,El Sol,El  Sol,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,La Candelaria,La Candelaria,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,La Cecilia (Santa Cecilia),Santa Cecilia,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,La Requena (La Requena de Fátima),Requena,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,La Vega,La Vega ,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,Madero (Estación Madero),Estación Madero,0.1,0.1,Ósmosis Inversa
+Coahuila de Zaragoza,Parras,Madero (Estación Madero),Estación Madero,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,Piedra Blanca,Piedra Blanca,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,San Rafael de Los Milagros,San Rafael de Los Milagros,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Parras,Talía,Talia,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Piedras Negras,Piedras Negras,Piedras Negras I,500.0,400.0,Clarificación Convencional con Sedimentación
+Coahuila de Zaragoza,Piedras Negras,Piedras Negras,Piedras Negras II,500.0,400.0,Clarificación Convencional con Sedimentación
+Coahuila de Zaragoza,Piedras Negras,Piedras Negras,Piedras Negras III,500.0,500.0,Clarificación Convencional con Sedimentación
+Coahuila de Zaragoza,Ramos Arizpe,Alto de Norias,Alto de Norias,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ramos Arizpe,El Coyote,El Coyote,0.02,0.02,Ósmosis Inversa
+Coahuila de Zaragoza,Ramos Arizpe,Fraustro,Fraustro,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ramos Arizpe,Higueras,Higueras,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ramos Arizpe,La Azufrosa,La Azufrosa,0.2,0.2,Ósmosis Inversa
+Coahuila de Zaragoza,Ramos Arizpe,La Leona,La Leona,0.2,0.2,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ramos Arizpe,Las Coloradas,Las Coloradas ,0.04,0.04,Ósmosis Inversa
+Coahuila de Zaragoza,Ramos Arizpe,Las Esperanzas,Las Esperanzas ,0.001,0.001,Ósmosis Inversa
+Coahuila de Zaragoza,Ramos Arizpe,Las Norias,Las Norias,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ramos Arizpe,Mesillas,Mesillas,0.1,0.1,Ósmosis Inversa
+Coahuila de Zaragoza,Ramos Arizpe,Mesón del Norte,Mesón del Norte,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ramos Arizpe,Paredón,Paredón,0.2,0.2,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ramos Arizpe,Plan de Guadalupe (La Delfina),Plan de Guadalupe,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ramos Arizpe,San Ignacio,San Ignacio,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Ramos Arizpe,Santa María (Santa María del Rosario),Santa María,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Chapula,Chapula,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,El Cercado,Cercado,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,El Colorado,Colorado,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,El Mezquite,El Mezquite,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,El Rayado,El Rayado ,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Encarnación de Guzman,Encarnación de Guzman,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Gómez Farias (Nuevo Gómez Farias),Nuevo Gómez Farias,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Hedionda Grande,Hedionda Grande,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Jazminal,Jazminal,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,La Cuchilla,La Cuchilla,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,La Ventura,La Ventura 20 de Noviembre,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Las Mangas,Las Mangas,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Llanos de La Unión,Llanos de La Unión,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Presa de Los Muchachos,Presa de Los Muchachos,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Punta Santa Elena,Punta de Santa Elena,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Saltillo,Benito Juarez,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,San Francisco del Ejido,San Francisco del Ejido,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,San Juan del Retiro,San Juan del Retiro,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Santa Elena (Estación Santa Elena),Santa Elena,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Santa Teresa de Los Muchachos,Sta. Teresa de Los Muchachos,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Sebastián Torres Alcala (Cerro GÜero),San Sebastían,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Tanque Escondido,Tanque Escondido,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Saltillo,Tinajuela,Tinajuela,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,San Buenaventura,Guadalupe Victoria (El Cerrito),Guadalupe Victoria (El Cerrito,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,San Buenaventura,San Blas,San Blas,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,San Buenaventura,San Francisco,San Francisco,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,San Buenaventura,Santa Gertrudis,Santa Gertrudis,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,San Pedro,Mala Noche y Arracadas,Mala Noche,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Sierra Mojada,Nuevos Horizontes (San Francisco),Nuevos Horizontes,0.1,0.1,Ósmosis Inversa
+Coahuila de Zaragoza,Sierra Mojada,Providencia,Providencia,0.1,0.1,Ósmosis Inversa
+Coahuila de Zaragoza,Sierra Mojada,Salina del Rey (Del Rey Sur),Salinas del Rey Sur,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Torreón,Torreón,Pozo 65 Nueva Laguna,12.0,12.0,Filtración Directa
+Coahuila de Zaragoza,Torreón,Torreón,Pozo 67 Lucio Blanco,22.0,22.0,Filtración Directa
+Coahuila de Zaragoza,Torreón,Torreón,Pozo 75R Senderos,20.0,20.0,Filtración Directa
+Coahuila de Zaragoza,Torreón,Torreón,Pozo 50 Zacatecas,18.0,18.0,Filtración Directa
+Coahuila de Zaragoza,Torreón,Torreón,Pozo 35 Col. Rovirosa Wade,45.0,45.0,Filtración Directa
+Coahuila de Zaragoza,Torreón,Torreón,Pozo 16 Col. Palmas San Isidro,40.0,40.0,Filtración Directa
+Coahuila de Zaragoza,Torreón,Torreón,Pozo 50R  Col. Luis Echeverria,25.0,25.0,Filtración Directa
+Coahuila de Zaragoza,Torreón,Torreón,Pozo 79 Fracc. Lagos,30.0,30.0,Filtración Directa
+Coahuila de Zaragoza,Torreón,Torreón,Pozo 18R Col. Camilo Torres,36.0,36.0,Filtración Directa
+Coahuila de Zaragoza,Torreón,Torreón,Pozo 32R  Jumbo,38.0,38.0,Filtración Directa
+Coahuila de Zaragoza,Viesca,Flor de Mayo,Flor de Mayo,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Viesca,La Fe,La Fe,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Viesca,La Presa de Yenti,Presa Yenti,0.1,0.1,Ósmosis Inversa con Suavizador
+Coahuila de Zaragoza,Villa Unión,El Porvenir de Abajo,El Porvenir ,0.1,0.1,Ósmosis Inversa con Suavizador
+Colima,Colima,Acatitán,Acatitán,0.1,0.03,Adsorción
+Colima,Colima,Cardona,Cardona,0.1,0.03,Adsorción
+Colima,Colima,El Amarradero,Amarradero,0.4,0.03,Adsorción
+Colima,Colima,El Astillero de Arriba,Astillero de Arriba,0.1,0.03,Adsorción
+Colima,Colima,El Bordo,El Bordo,0.1,0.03,Adsorción
+Colima,Colima,El Chanal,El Chanal,0.1,0.03,Adsorción
+Colima,Colima,Estapilla,Estapilla,0.1,0.03,Ósmosis Inversa con Suavizador
+Colima,Colima,Las Golondrinas,Golondrinas,1.0,0.05,Ósmosis Inversa con Suavizador
+Colima,Colima,Los Tepames,Tepames,0.1,0.03,Adsorción
+Colima,Colima,Puerta de Ánzar,Puerta de Anzar,0.4,0.03,Adsorción
+Colima,Colima,Vivienda Sin Nombre,Loma de Allende,0.1,0.03,Adsorción
+Colima,Comala,Cofradía de Suchitlán,Cofradía De Suchitlán II,0.1,0.03,Filtración Directa
+Colima,Comala,Cofradía de Suchitlán,Cofradia De Suchitlan I,0.1,0.03,Filtración Directa
+Colima,Comala,Comala,Col Lázaro Cárdenas,0.1,0.03,Ósmosis Inversa
+Colima,Comala,El Remudadero,El Remudadero,0.1,0.03,Ósmosis Inversa
+Colima,Comala,La Becerrera,La Becerrera,0.1,0.03,Filtración Directa
+Colima,Comala,La Nogalera,La Nogalera,0.1,0.03,Ósmosis Inversa
+Colima,Comala,Los Colomos,Colomos,0.1,0.03,Ósmosis Inversa
+Colima,Coquimatlán,El Chical,El Chical,0.1,0.03,Adsorción
+Colima,Coquimatlán,El Poblado,El Poblado,0.1,0.03,Adsorción
+Colima,Cuauhtémoc,Alzada,Alzada,0.1,0.03,Ósmosis Inversa con Suavizador
+Colima,Cuauhtémoc,Buenavista,Buenavista,0.1,0.03,Adsorción
+Colima,Cuauhtémoc,Palmillas,Palmillas,0.5,0.03,Adsorción
+Colima,Ixtlahuacán,Las Trancas,Las Trancas,0.1,0.1,Ósmosis Inversa con Suavizador
+Colima,Manzanillo,El Charco,El Charco,0.1,0.1,Adsorción
+Colima,Minatitlán,El Platanar,El Platanar,0.2,0.2,Adsorción
+Colima,Minatitlán,La Loma,La Loma,0.1,0.1,Adsorción
+Colima,Minatitlán,Paticajo,Paticajo,0.2,0.2,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Caleras,Caleras,0.1,0.1,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Callejones,Callejones,0.1,0.1,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Cerro de Ortega,Cerro De Ortega,0.3,0.1,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Cerro de Ortega,Cerro de Ortega II,0.3,0.2,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Chanchopa,Chanchopa,0.3,0.2,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Cofradía de Hidalgo (Laguna de Alcuzahue),Cofradía de Hidalgo,0.3,0.03,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Cofradía de Morelos,Cofradía de Morelos,0.3,0.2,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Colonia Bayardo,Bayardo (Nvo. Caxitlán),0.3,0.3,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Colonia Ladislao Moreno,Ladislao Moreno,0.3,0.2,Ósmosis Inversa con Suavizador
+Colima,Tecomán,El Saucito,El Saucito,0.2,0.02,Ósmosis Inversa con Suavizador
+Colima,Tecomán,La Salada,La Salada,0.2,0.2,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Madrid,Madrid I,0.3,0.3,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Madrid,Madrid,0.3,0.1,Ósmosis Inversa con Suavizador
+Colima,Tecomán,San Miguel del Ojo de Agua,San Miguel del Ojo de Agua,0.3,0.1,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Tecolapa,Tecolapa,0.3,0.03,Ósmosis Inversa con Suavizador
+Colima,Tecomán,Tecomán,Ruíz Cortinez,0.1,0.1,Adsorción
+Colima,Tecomán,Tecomán,Santa Elena,0.1,0.03,Adsorción
+Colima,Villa de Álvarez,Agua Dulce,Agua Dulce,0.1,0.03,Adsorción
+Colima,Villa de Álvarez,Ciudad de Villa de Álvarez,Solidaridad,0.4,0.02,Adsorción
+Colima,Villa de Álvarez,Ciudad de Villa de Álvarez,Ramon Serrano,0.4,0.03,Adsorción
+Colima,Villa de Álvarez,El Nuevo Naranjal,Nuevo Naranjal,0.4,0.02,Adsorción
+Colima,Villa de Álvarez,Juluapan,Juluapan,0.4,0.02,Adsorción
+Durango,Cuencamé,Velardeña,Velardeña,1.5,1.1,Ósmosis Inversa
+Durango,Durango,Colonia Hidalgo,Col. Hidalgo,1.1,0.9,Ósmosis Inversa
+Durango,Durango,Veintisiete de Noviembre,27 De Noviembre,1.2,1.0,Ósmosis Inversa
+Durango,General Simón Bolivar,Dieciocho de Marzo,18 de Marzo,0.4,0.4,Ósmosis Inversa
+Durango,General Simón Bolivar,Enrique Flores Magón,Colonia Enrique Flores Magón,0.4,0.4,Ósmosis Inversa
+Durango,General Simón Bolivar,Ignacio Zaragoza,Ignacio Zaragoza,0.4,0.4,Ósmosis Inversa
+Durango,General Simón Bolivar,Oriente Aguanaval,Oriente Aguanaval,0.4,0.4,Ósmosis Inversa
+Durango,General Simón Bolivar,Pedro Celestino Negrete,Pedro Celestino Negrete,0.4,0.4,Ósmosis Inversa
+Durango,General Simón Bolivar,San José de Reyes,San José de Reyes,0.4,0.4,Ósmosis Inversa
+Durango,General Simón Bolivar,San José de Zaragoza,San José de Zaragoza,0.4,0.4,Ósmosis Inversa
+Durango,General Simón Bolivar,Santa Rosalía,Sta. Rosalía,0.4,0.4,Ósmosis Inversa
+Durango,Gómez Palacio,Esmeralda,La Esmeralda,0.4,0.4,Ósmosis Inversa
+Durango,Gómez Palacio,Gómez Palacio,Pozo 6 El Campestre,36.0,36.0,Filtración Directa
+Durango,Gómez Palacio,Gómez Palacio,Pozo 12 Zona Industrial,33.0,33.0,Filtración Directa
+Durango,Gómez Palacio,Gómez Palacio,Cerro de La Pila,113.0,113.0,Filtración Directa
+Durango,Gómez Palacio,Gómez Palacio,Pozo 13 Pil Canal Sacramento,51.0,51.0,Filtración Directa
+Durango,Gómez Palacio,Pueblo Nuevo (El Siete),Planta Pueblo Nuevo,8.0,8.0,Filtración Directa
+Durango,Gómez Palacio,San Felipe,Planta San Felipe,95.0,50.0,Filtración Directa
+Durango,Hidalgo,Villa Hidalgo,Hidalgo,1.5,1.5,Ósmosis Inversa
+Durango,Lerdo,Salamanca,Salamanca,0.4,0.4,Ósmosis Inversa
+Durango,Mapimí,Bermejillo,Bermejillo,0.4,0.4,Ósmosis Inversa
+Durango,Mapimí,Buen Día,Buendía,0.4,0.4,Ósmosis Inversa
+Durango,Mapimí,Ceballos,Ceballos,0.4,0.4,Ósmosis Inversa
+Durango,Mapimí,El Diamante,El Diamante,0.4,0.4,Ósmosis Inversa
+Durango,Mapimí,Emiliano Zapata (El Derrame),Emiliano Zapata,0.4,0.4,Ósmosis Inversa
+Durango,Mapimí,Jaralito,Jaralito,0.4,0.4,Ósmosis Inversa
+Durango,Mapimí,La Merced (Las Águilas),La Merced,0.4,0.4,Ósmosis Inversa
+Durango,Mapimí,Las Marías,Las Marías,0.4,0.4,Ósmosis Inversa
+Durango,Mapimí,Mapimí,Mapimi,0.4,0.4,Ósmosis Inversa
+Durango,Mapimí,Nueva Estrella,La Estrella,0.4,0.4,Ósmosis Inversa
+Durango,Mapimí,Santa Librada,Santa Librada,0.4,0.4,Ósmosis Inversa
+Durango,Nombre de Dios,San José de La Parrilla (La Parrilla),San José de La Parrilla,4.0,2.9,Ósmosis Inversa
+Durango,Pueblo Nuevo,El Salto,El Salto,100.0,100.0,Ósmosis Inversa
+Durango,Rodeo,La Gotera,La Gotera,0.3,0.3,Ósmosis Inversa
+Durango,San Juan de Guadalupe,Agua Nueva,Agua Nueva,0.4,0.4,Ósmosis Inversa
+Durango,San Juan de Guadalupe,Benito Juárez (El Capadero),Benito Juárez,0.4,0.4,Ósmosis Inversa
+Durango,San Juan de Guadalupe,El Zorrillo,El Zorrillo,0.3,0.3,Ósmosis Inversa
+Durango,San Juan de Guadalupe,Guadalupito,Guadalupito,0.4,0.4,Ósmosis Inversa
+Durango,San Juan de Guadalupe,La Escalera,La Escalera,0.4,0.4,Ósmosis Inversa
+Durango,San Juan de Guadalupe,La Planilla,La Planilla,0.4,0.4,Ósmosis Inversa
+Durango,San Juan de Guadalupe,La Rosita,La Rosita,0.3,0.3,Ósmosis Inversa
+Durango,San Juan de Guadalupe,Lázaro Cárdenas (El Zacate),El Zacate,0.4,0.4,Ósmosis Inversa
+Durango,San Juan de Guadalupe,Nueva Reforma,Nueva Reforma,0.4,0.4,Ósmosis Inversa
+Durango,San Juan de Guadalupe,San José de Barrones,San José de Barrones,0.4,0.4,Ósmosis Inversa
+Durango,San Juan de Guadalupe,San Juan de Guadalupe,Barrio de Mérida,0.4,0.4,Ósmosis Inversa
+Durango,San Juan de Guadalupe,San Juan de Guadalupe,San Juan de Guadalupe,0.4,0.4,Ósmosis Inversa
+Durango,San Juan de Guadalupe,Vicente Guerrero (Siete Zacates),7 Zacatecas,0.4,0.4,Ósmosis Inversa
+Durango,San Luis del Cordero,San Juan de Las Boquillas,San Juan de Boquillas,0.4,0.4,Ósmosis Inversa
+Durango,San Luis del Cordero,San luis del Cordero,San Luis,0.4,0.4,Ósmosis Inversa con Suavizador
+Durango,San Pedro del Gallo,San Pedro del Gallo,San Pedro del Gallo,0.3,0.3,Ósmosis Inversa
+Durango,Santiago Papasquiaro,Santiago Papasquiaro,Santiago Papasquiaro,100.0,60.0,Ósmosis Inversa
+Durango,Santiago Papasquiaro,Santiago Papasquiaro,Planta Potabilizadora Las Turbinas,0.3,0.3,Filtración Directa
+Durango,Tlahualilo,Amapolas,Amapolas,0.4,0.4,Ósmosis Inversa
+Durango,Tlahualilo,Cartagena,28 de Cartagena,0.4,0.4,Ósmosis Inversa
+Durango,Tlahualilo,El Renegado (La Perla),El Renegado,0.4,0.4,Ósmosis Inversa
+Durango,Tlahualilo,Granja Morelos (La Loma Yermo),Granja Morelos,0.4,0.4,Ósmosis Inversa
+Durango,Tlahualilo,La Sierrita,La Sierrita,0.4,0.4,Ósmosis Inversa
+Durango,Tlahualilo,Nombre de Dios,Nombre De Dios,0.4,0.4,Ósmosis Inversa
+Guanajuato,Acambaro,Acámbaro,El Calabazo,10.0,10.0,Ósmosis Inversa
+Guanajuato,Apaseo El Grande,San Pedro Tenango,San Pedro Tenango,0.2,0.2,Ósmosis Inversa
+Guanajuato,Celaya,Celaya,Santa Rita,30.0,20.0,Otro
+Guanajuato,Comonfort,Ojo de Agua del Potrero (Ojo de Agua),Ojo de Agua de Potrero ,0.2,0.2,Ósmosis Inversa
+Guanajuato,Cuerámaro,Cerrito de Agua Caliente,Cerrito de Agua Caliente,1.0,0.6,Ósmosis Inversa
+Guanajuato,Cuerámaro,San Gregorio,San Gregorio,1.0,0.7,Ósmosis Inversa
+Guanajuato,Guanajuato,Guanajuato,Los Filtros,150.0,110.0,Clarificación Convencional con Sedimentación
+Guanajuato,Guanajuato,Guanajuato,Presa de Mata,42.0,35.0,Clarificación Convencional con Sedimentación
+Guanajuato,Guanajuato,Mineral de La Luz (La Luz),Mineral de La Luz,6.0,6.0,Clarificación Convencional con Sedimentación
+Guanajuato,Guanajuato,Puerto de Santa Rosa,Puerto de Santa Rosa,6.5,6.5,Clarificación Convencional con Sedimentación
+Guanajuato,Irapuato,Aldama,Aldama,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Cañada de La Muerte,Cañada de La Muerte,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Carrizal Grande,Carrizal Grande,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Comederito,Comederito,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Guadalupe de Paso Blanco (El Ranchito),Guadalupe Paso Blanco,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Hacienda de Márquez (Márquez),Hacienda de Márquez,1.0,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Irapuato,Pozo 38,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Irapuato,Pozo 81,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Irapuato,Pozo 86,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Irapuato,Japami,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,La Loma,Loma Bonita,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,La Trinidad de Temascatio,Trinidad Temascatío,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Las Malvas (El Resbalón),Malvas de Arrgolla ,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Las Malvas (El Resbalón),Malvas de Argolla 2,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Las Malvas (El Resbalón),Malvas Revolucion,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Ojo de Agua de Bermúdez,Ojo de Agua de Bermúdez,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Paso Blanco,Paso Blanco,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Peñuelas,Peñuelas,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Purísima de Covarrubias,Purisima del Progreso,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Purísima de Temascatio de Arriba,Purisima de Temascatio de Arriba,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Rivera de Guadalupe,Rivera de Guadalupe,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,San Ignacio de Rivera (Ojo de Agua),San Ignacio Rivera,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,San José de Cruces,San José Cruces,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,San Nicolas Temascatio,Nicolas Temascatio,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Santa Barbara,Santa Barbara,0.1,0.1,Ósmosis Inversa
+Guanajuato,Irapuato,Serrano,Serrano,0.1,0.1,Ósmosis Inversa
+Guanajuato,León,León de Los Aldama,León,160.0,115.0,Clarificación Convencional con Sedimentación
+Guanajuato,Manuel Doblado,Ciudad Manuel Doblado,Calzada del Tepozán,0.2,0.2,Ósmosis Inversa
+Guanajuato,Manuel Doblado,Ciudad Manuel Doblado,La Playa,0.2,0.2,Ósmosis Inversa
+Guanajuato,Manuel Doblado,Ciudad Manuel Doblado,Puerto de La Llave,1.0,0.6,Filtración Lenta
+Guanajuato,Manuel Doblado,La Calzada de La Merced,Calzada de La Merced,2.2,2.2,Ablandamiento
+Guanajuato,Pénjamo,Estación Penjamo,La Estación ,0.2,0.2,Ósmosis Inversa
+Guanajuato,Pueblo Nuevo,Guadalupe del Monte (La Lupita),Guadalupe del Monte,0.1,0.1,Ósmosis Inversa
+Guanajuato,San Felipe,Laguna de Guadalupe,Laguna de Guadalupe,0.2,0.2,Ósmosis Inversa
+Guanajuato,San Felipe,Providencia de Guadalupe (Estancia de Providencia),Providencia,0.1,0.1,Ósmosis Inversa
+Guanajuato,San Luis de La Paz,La Cruz de Guerrero,La Cruz de Guerrero,0.2,0.2,Ósmosis Inversa
+Guanajuato,San Luis de La Paz,La Escondidita (La Escondida),La Escondidita,1.0,0.6,Ósmosis Inversa
+Guanajuato,San Luis de La Paz,Maravilla l,Maravilla L,1.0,0.6,Ósmosis Inversa
+Guanajuato,San Luis de La Paz,San Luis de La Paz,Paso de Vaqueros,250.0,130.0,Filtración Directa
+Guanajuato,San Luis de La Paz,Terreros de La Concepción (El Terrero),Los Terreros de La Concepción,0.04,0.04,Ósmosis Inversa
+Guanajuato,Santa Cruz de Juventino Rosas,San Diego de Los Dolores,San Diego de Los Dolores,0.2,0.2,Ósmosis Inversa
+Guanajuato,Santa Cruz de Juventino Rosas,San Diego de Los Dolores,San Diego de Los Dolores,0.1,0.1,Ósmosis Inversa
+Guanajuato,Uriangato,El Derramadero,El Derramadero,2.9,2.9,Ablandamiento
+Guanajuato,Valle de Santiago,Santa Bárbara,Santa Bárbara y Noria de Mosqué,1.0,0.6,Ósmosis Inversa
+Guerrero,Acapulco de Juárez,Acapulco de Juárez,Acapulco (Cayaco),2000.0,1600.0,Clarificación Convencional con Sedimentación
+Guerrero,Arcelia,Arcelia,Arcelia,70.0,65.0,Clarificación Convencional con Sedimentación
+Guerrero,Buenavista de Cuellar,Buenavista de Cuellar,Buenavista De Cuellar,70.0,40.0,Clarificación Convencional con Sedimentación
+Guerrero,Iguala de La Independencia,Iguala de La Independencia,Iguala,400.0,300.0,Clarificación Convencional con Sedimentación
+Guerrero,Olinalá,Olinalá,Olinalá,35.0,15.0,Clarificación Convencional con Sedimentación
+Guerrero,Ometepec,Ometepec,Ometepec,100.0,85.0,Clarificación Convencional con Sedimentación
+Guerrero,Pilcaya,Pilcaya,Pilcaya,20.0,18.0,Clarificación Convencional con Sedimentación
+Guerrero,Pungarabato,Ciudad Altamirano,Cd. Altamirano,420.0,400.0,Clarificación Convencional con Sedimentación
+Guerrero,Taxco de Alarcón,Taxco de Alarcón,Taxco,120.0,90.0,Clarificación Convencional con Sedimentación
+Guerrero,Teloloapan,Teloloapan,Teloloapan,80.0,40.0,Filtración Lenta
+Guerrero,Tixtla de Guerrero,Tixtla de Guerrero,Tixtla,40.0,25.0,Clarificación Convencional con Sedimentación
+Hidalgo,Atitalaquia,Atitalaquia,Pozo Villas Atitalaquia,5.0,5.0,Filtración Directa
+Hidalgo,Atitalaquia,Atitalaquia,Pozo El Tablón,20.0,10.0,Filtración Directa
+Hidalgo,Atitalaquia,Atitalaquia,Pozo La Ranfla,12.0,12.0,Filtración Directa
+Hidalgo,Atitalaquia,Cardonal,Pozo Cardonal,18.0,18.0,Filtración Directa
+Hidalgo,Atitalaquia,Colonia Empleados Refinería,Pozo 18 De Marzo,12.0,12.0,Filtración Directa
+Hidalgo,Atitalaquia,U. Hab. Antonio Osorio de Léon (Bojay),Pozo San José Bojay ,22.0,22.0,Filtración Directa con Desgasificador
+Hidalgo,Atotonilco de Tula,Atotonilco de Tula,Pozo 7,50.0,38.0,Filtración Directa
+Hidalgo,Mineral del Chico,La Estanzuela,El Bordo,50.0,50.0,Clarificación Convencional con Sedimentación
+Hidalgo,Mineral del Monte,Mineral del Monte,La Dificultad,50.0,50.0,Ósmosis Inversa
+Hidalgo,Pachuca de Soto,Pachuca de Soto,San Juan Pachuca,120.0,120.0,Ósmosis Inversa
+Hidalgo,Pachuca de Soto,Pachuca de Soto,Mina El Álamo,200.0,35.0,Ósmosis Inversa
+Hidalgo,Pachuca de Soto,Pachuca de Soto,Mina Paraíso,220.0,60.0,Ósmosis Inversa
+Hidalgo,Progreso de Obregon,Progreso,Pozo Progreso,55.0,55.0,Filtración Directa
+Hidalgo,Tepetitlan,General Pedro María Anaya,Pedro María Anaya,28.0,4.0,Filtración Directa
+Hidalgo,Zimapan,Benito Juárez (Detzani),Pozo Detzani,5.0,5.0,Filtración Directa
+Hidalgo,Zimapan,El Muhi,Llano Norte (El Muhi),22.0,19.0,Clarificación Convencional con Sedimentación
+Hidalgo,Zimapan,Zimapan,Tanque Central,16.0,13.0,Clarificación Convencional con Sedimentación
+Jalisco,Arandas,El Sauz de Cajigal,Sauz de Cajigal,2.0,2.0,Clarificación Convencional con Sedimentación
+Jalisco,Cañadas de Obregón,Cañadas de Obregón,Villa Obregón,12.0,12.0,Clarificación Convencional con Sedimentación
+Jalisco,Cuquío,Cuquío,Cuquío,30.0,30.0,Clarificación Convencional con Sedimentación
+Jalisco,Guadalajara,Guadalajara,Guadalajara No. 1 (Miravalle),9000.0,9000.0,Clarificación Convencional con Sedimentación
+Jalisco,Guadalajara,Guadalajara,Guadalajara (Toluquilla),1200.0,1200.0,Clarificación Convencional con Sedimentación
+Jalisco,Hostotipaquillo,Mesa de Flores,Mesa de Las Flores,2.0,2.0,Clarificación Convencional con Sedimentación
+Jalisco,Huejúcar,San José de Los Marquez,San José de Los Marquez,2.0,2.0,Clarificación Convencional con Sedimentación
+Jalisco,Ixtlahuacan del Río,Ixtlahuacan del Río,Ixtlahuacan del Río,20.0,20.0,Clarificación Convencional con Sedimentación
+Jalisco,Ixtlahuacan del Río,San Antonio de Los Vázquez,San Antonio de Los Vázquez,25.0,25.0,Clarificación Convencional con Sedimentación
+Jalisco,Jilotlán de Los Dolores,Jilotlán de Los Dolores,Jilotrlán de Los Dolores,10.0,10.0,Clarificación Convencional con Sedimentación
+Jalisco,Ojuelos Jalisco,Matanzas,Matanzas,3.0,3.0,Ósmosis Inversa
+Jalisco,Pihuamo,Pihuamo,Pihuamo Arroyo La Suiza,25.0,25.0,Clarificación Convencional con Sedimentación
+Jalisco,Puerto Vallarta,Las Palmas de Arriba,Las Palmas,50.0,50.0,Clarificación Convencional con Sedimentación
+Jalisco,Puerto Vallarta,Puerto Vallarta,Puerto Vallarta I (Mismaloya),22.0,22.0,Clarificación Convencional con Sedimentación
+Jalisco,Puerto Vallarta,Puerto Vallarta,Puerto Vallarta II (Río Cuale),150.0,150.0,Clarificación Convencional con Sedimentación
+Jalisco,Puerto Vallarta,Puerto Vallarta,Mojoneras,300.0,300.0,Clarificación Convencional con Sedimentación
+Jalisco,Puerto Vallarta,Puerto Vallarta,Puerto Vallarta ,100.0,60.0,Clarificación Convencional con Sedimentación
+Jalisco,Puerto Vallarta,Puerto Vallarta,San Luis,40.0,40.0,Clarificación Convencional con Sedimentación
+Jalisco,San Juan de Los Lagos,San Juan de Los Lagos,San Juan de Los Lagos,40.0,40.0,Clarificación Convencional con Sedimentación
+Jalisco,San Martín de Hidalgo,San Jerónimo,San Jerónimo,2.0,2.0,Clarificación Convencional con Sedimentación
+Jalisco,San Martín de Hidalgo,San Martín de Hidalgo, Pozo 6,10.0,10.0,Clarificación Convencional con Sedimentación
+Jalisco,Tala,Tala,Tala,30.0,30.0,Clarificación Convencional con Sedimentación
+Jalisco,Teocaltiche,El Tablero,El Tablero/ La Trinidad,2.0,2.0,Ósmosis Inversa
+Jalisco,Tepatitlán de Morelos,Capilla de Guadalupe,Acueducto El Salto Tepatitlan,400.0,230.0,Clarificación Convencional con Sedimentación
+Jalisco,Tepatitlán de Morelos,Tepatitlán de Morelos,Viveros,80.0,80.0,Clarificación Convencional con Sedimentación
+Jalisco,Tepatitlán de Morelos,Tepatitlán de Morelos,El Salto,400.0,230.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Cofradía de La Luz,Cofradía de La Luz,16.0,16.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,LA Tijera,San José del Tajo (puente Solektron),20.0,20.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,La Tijera,Villas de La Tijera,4.0,4.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Lomas de Santa Anita,Fracc. Sendero de Monte Verde,5.0,5.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,San Sebastian El Grande,Residencial San Pablo,12.0,12.0,Ósmosis Inversa
+Jalisco,Tlajomulco de Zuñiga,Tlajomulco de Zuñiga,Frac. Real del Sol,5.0,5.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Tlajomulco de Zuñiga,Frac. Las Luces,10.0,10.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Tlajomulco de Zuñiga,Concha Residencial,3.0,3.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Tlajomulco de Zuñiga,Altus Bosques,5.0,5.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Tlajomulco de Zuñiga,Nueva Galicia,10.0,10.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Tlajomulco de Zuñiga,Fraccionamiento Villa Alta,10.0,10.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Tlajomulco de Zuñiga,Fraccionamiento ,15.0,15.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Tlajomulco de Zuñiga,Fraccionamiento ,10.0,10.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Tlajomulco de Zuñiga,Sendero de Monteverde,5.0,5.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Tlajomulco de Zuñiga,Tulipanes de Amapas,10.0,10.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Tlajomulco de Zuñiga,Haciendas San Miguel,36.0,36.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Tres Gallos,Tres Gallos,2.0,2.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlajomulco de Zuñiga,Zapote del Valle,Zapote del Valle,800.0,600.0,Clarificación Convencional con Sedimentación
+Jalisco,Tlaquepaque,Tlaquepaque,Guadalajara II (Las Huertas),2000.0,2000.0,Clarificación Convencional con Sedimentación
+Jalisco,Tonalá,Tonalá,Guadalajara III (San Gaspar),3000.0,3000.0,Clarificación Convencional con Sistema de Flotación con Aire Disuelto (DAF)
+Jalisco,Yahualica de González Gallo,Yahualica de González Gallo,Yahualica,30.0,30.0,Clarificación Convencional con Sedimentación
+México,Almoloya del Río,Almoloya del Río,Almoloya Del Río,580.0,450.0,Filtración Directa
+México,Atizapán de Zaragoza,Viejo Madín, Madín ,600.0,550.0,Clarificación Convencional con Sedimentación
+México,Chimalhuacán,Chimalhuacán,Peñón-Texcoco,630.0,630.0,Filtración Directa
+México,Chimalhuacán,Chimalhuacán,Chimalhuacán,20.0,20.0,Adsorción
+México,El Oro,El Oro de Hidalgo,El Oro,20.0,20.0,Clarificación Convencional con Sedimentación
+México,Ixtapan de La sal,El Salitre, El Salitre ,10.0,10.0,Ósmosis Inversa
+México,Ixtapan de La sal,Ixtapan de La Sal,Cabecera Ixtapan de La Sal,100.0,60.0,Clarificación Convencional con Sedimentación
+México,Ixtapan de La sal,Llano de La Unión,Llano de La Unión,5.0,2.0,Clarificación Convencional con Sedimentación
+México,La Paz,Los Reyes Acaquilpan,La Puerta,100.0,75.0,Clarificación Convencional con Sedimentación
+México,La Paz,Los Reyes Acaquilpan,Los Puentes,70.0,55.0,Clarificación Convencional con Sedimentación
+México,Nezahualcoyotl,Ciudad Nezahualcoyotl, Nezahualcóyotl,80.0,35.0,Ósmosis Inversa
+México,Tenancingo,Tenancingo de Degollado,"Tenancingo,  La Alameda ",40.0,35.0,Filtración Directa
+México,Texcaltitlán,Texcaltitlán,Texcaltitlán,9.0,7.0,Clarificación Convencional con Sedimentación
+México,Tonatico,Tonatico,Tonatico,17.0,17.0,Ósmosis Inversa
+México,Tultitlán,Buenavista, Buenavista ,40.0,36.0,Clarificación Convencional con Sedimentación
+México,Villa de Allende,Berros (Los Berros), Berros,24000.0,16000.0,Clarificación Convencional con Sedimentación
+Michoacán de Ocampo,Hidalgo,Ciudad Hidalgo,Bañito Agrio,5.0,3.5,Filtración Directa
+Michoacán de Ocampo,Lázaro Cárdenas,Ciudad Lázaro Cárdenas,Lázaro Cárdenas I (Ing. Agustín García Arias),420.0,380.0,Clarificación Convencional con Sedimentación
+Michoacán de Ocampo,Morelia,Morelia,Santa María,690.0,610.0,Clarificación Convencional con Sedimentación
+Michoacán de Ocampo,Morelia,Morelia,Canal San Miguel,120.0,31.0,Filtración Directa
+Michoacán de Ocampo,Morelia,Morelia,Mintzita,1500.0,1010.0,Clarificación Convencional con Sedimentación
+Morelos,Atlatlahuacan,Atlatlahuacan,Rancho Cuachixolotera(Las Minas),12.0,12.0,Filtración Directa
+Morelos,Ayala,Tenextepango,Tenextepango,30.0,30.0,Clarificación Convencional con Sedimentación
+Morelos,Emiliano Zapata,Tezoyuca,Garza Azul,7.0,7.0,Clarificación Convencional con Sedimentación
+Morelos,Ocuituco,Ocuituco,Patrón,15.0,10.0,Clarificación Convencional con Sedimentación
+Morelos,Tlaltizapán,Tlaltizapán,El Salto,26.0,26.0,Clarificación Convencional con Sedimentación
+Morelos,Tlaquiltenango,Huautla,Huautla,1.2,1.2,Clarificación Convencional con Sedimentación
+Morelos,Xochitepec,Alpuyeca,Ciudad Salud,10.2,5.1,Filtración Directa
+Nuevo Leon,Allende,Ciudad de Allende,Allende,100.0,77.9,Clarificación Convencional con Sedimentación
+Nuevo Leon,Anáhuac,Anáhuac,Anáhuac,100.0,93.2,Clarificación Convencional con Sedimentación
+Nuevo Leon,Anáhuac,Colombia,Colombia,20.0,16.8,Clarificación Convencional con Sedimentación
+Nuevo Leon,Cadereyta Jiménez,Cadereyta,Cadereyta,300.0,205.0,Clarificación Convencional con Sedimentación
+Nuevo Leon,China,China,Ac. China - Los Aldamas,220.0,112.8,Filtración Directa
+Nuevo Leon,China,La Barreta (La Barreta dos),La Barreta,5.0,1.6,Ósmosis Inversa
+Nuevo Leon,Ciénega de Flores,Ciénega de Flores,Ac. Cerritos No. 1,50.0,23.8,Clarificación Convencional con Sedimentación
+Nuevo Leon,Doctor Arroyo,Los Medina,Los Medina,12.0,7.6,Ósmosis Inversa
+Nuevo Leon,Juárez,San Roque,San Roque,12000.0,6521.8,Filtración Lenta
+Nuevo Leon,Linares,Linares,Linares,114.0,75.7,Clarificación Convencional con Sedimentación
+Nuevo Leon,Los Ramones,Los Ramones,Los Ramones,25.0,12.9,Clarificación Convencional con Sedimentación
+Nuevo Leon,Monterrey,Ciudad Monterrey,La Boca,2400.0,512.2,Clarificación Convencional con Sedimentación
+Oaxaca,Heroica Ciudad de Huajuapan de León,Heroica Ciudad de Huajuapan de León,Huajuapan De León,400.0,120.0,Filtración Directa
+Oaxaca,Oaxaca de Juárez,Oaxaca de Juárez,Fortín I (P. Vieja),240.0,122.0,Clarificación Convencional con Sedimentación
+Oaxaca,Oaxaca de Juárez,Oaxaca de Juárez,San Antonio De La Cal,350.0,20.0,Clarificación Convencional con Sedimentación
+Oaxaca,Oaxaca de Juárez,Oaxaca de Juárez,San Felipe Del Agua,50.0,4.0,Clarificación Convencional con Sedimentación
+Oaxaca,Oaxaca de Juárez,Oaxaca de Juárez,Planta Trujano,150.0,20.0,Clarificación Convencional con Sedimentación
+Puebla,Cuautlancingo,San Lorenzo Almecatla,Planta Pretratamiento Pozo Jint (PPJ),70.0,48.0,Ablandamiento
+Puebla,Puebla,Guadalupe,Planta Potabilizadora Paseo del Río (PPPR),200.0,95.0,Ósmosis Inversa
+Puebla,Puebla,Heroica Puebla de Zaragoza,Planta Potabilizadora Agua Sulfurosa PPAS,200.0,174.0,Ablandamiento
+Puebla,Puebla,Heroica Puebla de Zaragoza,Planta Ablandadora Viveros Santa Cruz (PAV),22.0,6.0,Ósmosis Inversa
+Puebla,San José Chiapa,San José Chiapa,Planta Potabilizadaora Ciudad Modelo,25.0,25.0,Otro
+Puebla,San Pedro Cholula,Santiago Momoxpan,Planta Ablandadora Quetzalcóatl (PAQ),185.0,129.0,Ablandamiento
+Puebla,Zacatlán,Santa Martha,Potabilizadora Santa Martha,100.0,100.0,Clarificación Convencional con Sedimentación
+Queretaro de Arteaga,Cadereyta de Montes,Cadereyta,Acueducto 2,1800.0,1421.0,Clarificación Convencional con Sedimentación
+Queretaro de Arteaga,Jalpan de Serra,Jalpan,Jalpan,50.0,28.0,Clarificación Convencional con Sedimentación
+Queretaro de Arteaga,Jalpan de Serra,Tancoyol,Tancoyol,22.0,18.0,Clarificación Convencional con Sedimentación
+Queretaro de Arteaga,San Joaquín,San Joaquín,Aguacatillo ,4.0,4.0,Clarificación Convencional con Sedimentación
+San Luis Potosi,Cedral,Hidalgo,Ej. Hidalgo,0.3,0.3,Ósmosis Inversa
+San Luis Potosi,Ciudad Valles,Ciudad Valles,Ciudad Valles,600.0,400.0,Clarificación Convencional con Sedimentación
+San Luis Potosi,Ébano,Ébano,Ébano Chapacao I (Pujalcoy),10.0,10.0,Clarificación Convencional con Sedimentación
+San Luis Potosi,Ébano,Ébano,Ébano I,100.0,95.0,Clarificación Convencional con Sedimentación
+San Luis Potosi,Guadalcazar,La Boquilla,La Boquilla,1.5,0.7,Ósmosis Inversa
+San Luis Potosi,Matehuala,Los Mendoza,Los Mendoza,4.2,4.2,Ósmosis Inversa
+San Luis Potosi,San Luis Potosí,Escalerillas,Escalerillas ,5.0,5.0,Clarificación Convencional con Sedimentación
+San Luis Potosi,San Luis Potosí,San Luis Potosí,San Luis Potosí I (Filtros),480.0,250.0,Clarificación Convencional con Sedimentación
+San Luis Potosi,San Luis Potosí,San Luis Potosí,San Luis Potosí II (Lomas),40.0,25.0,Clarificación Convencional con Sedimentación
+San Luis Potosi,San Luis Potosí,San Luis Potosí,Planta Potabilizadora el Realito,1000.0,1000.0,Clarificación Convencional con Sedimentación
+San Luis Potosi,Tamuin,Ejido Los Huastecos,Los Huastecos,10.0,10.0,Filtración Directa
+San Luis Potosi,Tamuin,Tamuin,El Puente,20.0,20.0,Filtración Directa
+San Luis Potosi,Tamuin,Tamuin,La Ciénega,18.5,18.5,Filtración Directa
+San Luis Potosi,Tierra Nueva,Tierra Nueva,Tierra Nueva,28.0,28.0,Ablandamiento
+San Luis Potosi,Villa Hidalgo,El Coyote,El Coyote,0.5,0.5,Filtración Directa
+Sinaloa,Ahome,Ahome, Ahome,100.0,55.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Alfonso G. Calderón (Poblado Siete),Poblado No. 7,50.0,31.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Bachomobampo número dos,Bachomobampo Número Dos,25.0,6.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Bachomobampo número uno,Bachomobampo Número Uno,25.0,7.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Bagojo Colectivo,Ejido Emiliano Zapata,50.0,46.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Benito Juárez,Benito Juárez,50.0,15.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Cerro Cabezón (El Chorrito),Cerro Cabezón,25.0,6.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Cinco de Mayo,Ejido 5 De Mayo,25.0,10.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Cobayme,Cobayme,5.0,5.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Compuertas,Compuertas,70.0,19.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Dolores Hidalgo,Ejido Dolores Hidalgo,20.0,16.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,El Colorado,El Colorado,30.0,12.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,El Refugio,El Refugio,25.0,12.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Felipe Ángeles,Goros No. 2,25.0,19.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Flor Azul,Flor Azul,25.0,18.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Guillermo Chávez Talamantes,Chávez Talamantes,50.0,12.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Gustavo Díaz Ordaz (El Carrizo),Las Isabeles,200.0,189.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Heriberto Valdez Romero (El Guayabo),El Guayabo,60.0,52.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Higuera de Zaragoza,Higuera de Zaragoza,80.0,58.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Huacaporito,Huacaporito,15.0,14.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,La Arrocera,La Arrocera,20.0,11.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Las Grullas Margen Derecha,Grullas Margen Derecha,27.0,7.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Las Grullas Margen Izquierda,Grullas Margen Izquierda,50.0,12.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Los Mochis,Los Mochis I - Hernández Terán,750.0,761.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Los Mochis,Los Mochis II Comisión del Río Fuerte,950.0,828.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Matacahui (El Campito),Ejido Matacahui,5.0,4.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Mochis (Ejido Mochis),Ejido Mochis,60.0,23.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Nuevo San Miguel,Nuevo San Miguel,30.0,20.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Ohuira,Ohuira,25.0,9.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Poblado Número Seis (Los Natoches),Los Natoches,25.0,7.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Primero De Mayo,Primero De Mayo,50.0,17.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Pueblo Nuevo Luis Echeverría,Ejido Luis Echeverría,25.0,15.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Ricardo Flores Magón,Ejido R. Flores Magón,50.0,10.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,San José de Ahome,San José de Ahome,50.0,18.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,San Miguel  Zapotitlán,San Miguel Zapotitlán,70.0,49.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Tabelojeca,Tabelojeca     ,30.0,20.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Topolobampo,Topolobampo II,100.0,62.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Vallejo (Porvenir Vallejo),Ejido Vallejo,20.0,8.0,Clarificación Convencional con Sedimentación
+Sinaloa,Ahome,Zapotillo Uno (Zapotillo Viejo),Zapotillo No. 1,25.0,10.0,Clarificación Convencional con Sedimentación
+Sinaloa,Angostura,Campo El General,Campo El General,3.5,3.5,Clarificación Convencional con Sedimentación
+Sinaloa,Angostura,Colonia Agrícola México (Palmitas),Palmitas ,50.0,35.0,Clarificación Convencional con Sedimentación
+Sinaloa,Angostura,Colonia Agrícola Sinaloa,Colonia Sinaloa,5.0,5.0,Clarificación Convencional con Sedimentación
+Sinaloa,Angostura,Colonia Independencia (Chinitos),Colonia Independencia,60.0,50.0,Clarificación Convencional con Sedimentación
+Sinaloa,Angostura,Damaso Cárdenas,Damaso Cárdenas,20.0,20.0,Clarificación Convencional con Sedimentación
+Sinaloa,Angostura,El Nuevo Ostional,El Nuevo Ostional II,25.0,25.0,Clarificación Convencional con Sedimentación
+Sinaloa,Angostura,Estación Acatita,Estacián Acatita,5.0,5.0,Clarificación Convencional con Sedimentación
+Sinaloa,Angostura,La Reforma,La Reforma I,20.0,20.0,Clarificación Convencional con Sedimentación
+Sinaloa,Angostura,La Reforma,La Reforma II,20.0,20.0,Clarificación Convencional con Sedimentación
+Sinaloa,Angostura,La Reforma,La Reforma III,30.0,30.0,Clarificación Convencional con Sedimentación
+Sinaloa,Angostura,Leopoldo Sánchez Celis (El Gato de Lara),Gato de Lara,20.0,20.0,Clarificación Convencional con Sedimentación
+Sinaloa,Choix,Los Picachos,Picachos,8.0,6.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Adolfo López Mateos (El Tamarindo),Adolfo López Mateos - Platanera,40.0,30.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Arkadia 1 (El Siete),Arcadia,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Campo Arbaco,Arbaco,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Campo Cinco y Medio,Cinco y Medio y Seis,5.0,5.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Costa Rica,Costa Rica I,40.0,10.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Costa Rica,Costa Rica II,80.0,60.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Costa Rica,Costa Rica III,100.0,80.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Culiacán Rosales,Culiacán Country I,150.0,150.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Culiacán Rosales,Culiacán Country II,100.0,100.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Culiacán Rosales,Culiacán Isleta I,225.0,225.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Culiacán Rosales,Culiacán Isleta II,150.0,150.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Culiacán Rosales,Culiacán Juan de Dios Bátiz,300.0,233.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Culiacán Rosales,Culiacán La Primavera,1000.0,897.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Culiacán Rosales,Culiacán Isleta III,100.0,85.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Culiacán Rosales,Culiacán Isleta IV,100.0,85.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Culiacán Rosales,Culiacán Isleta IV - A1,100.0,85.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Culiacán Rosales,Culiacán Juan de Dios Bátiz I,500.0,426.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Doroteo Arango,Doroteo Arango,13.0,13.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Ejido Canán,Ejido Canán,10.0,10.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Ejido Comanito,Comanito,15.0,13.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Ejido El Álamo,El Álamo,5.0,5.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Ejido Mezquitillo (Chapeteado),Mezquitillo Chapeteado,7.0,7.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Ejido Mezquitillo (La Curva),Ejido Mezquitillo La Curva,8.0,5.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Ejido Mezquitillo Número Dos,Ejido Mesquitillo Número Dos,10.0,10.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,El Alhuate,El Alhuate,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,El Limón de Los Ramos,Limón de Los Ramos,20.0,20.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Obispo,Estación Obispo,40.0,40.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Sección San Rafael (Las Casitas),San Rafael,3.0,3.0,Clarificación Convencional con Sedimentación
+Sinaloa,Culiacán,Soyatita,Soyatita,13.0,13.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,Benito Juárez (Vinateria),Vinateria,45.0,35.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,Cerrillos (Campo Treinta y Cinco),Campo 35,50.0,37.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,Charay,Charay,30.0,30.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,Constancia,Constancia,60.0,30.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,Dos de Abril,2 De Abril,20.0,20.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,El Fuerte,El Fuerte,200.0,150.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,La Misión Nueva,La Mision Nueva  ,5.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,La Palma,La Palma,20.0,15.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,Las Higueras de Los Natoches,Higuera de Los Natoches,20.0,20.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,Mochicahui,Mochicahui,40.0,40.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,Pochotal,Pochotal,15.0,15.0,Filtración Directa
+Sinaloa,El Fuerte,ranchito de mochicahui,Ranchito de Mochicahui ,20.0,20.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,San Blas,San Blas,30.0,30.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,Teroque Viejo,El Teroque Viejo,20.0,15.0,Clarificación Convencional con Sedimentación
+Sinaloa,El Fuerte,Tres Garantias,Tres Garantias,10.0,10.0,Filtración Directa
+Sinaloa,Guasave,15 de Octubre,Ejido 15 de Octubre,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Adolfo Ruíz Cortines,Ruíz Cortines,100.0,100.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Bachoco,Bachoco,20.0,15.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Campo 38,Campo 38,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Campo El Tajito,El Tajito,20.0,10.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Chino de Los López,Chino de Los López,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Ejido Abelardo L. Rodríguez,Ejido Abelardo L. Rodríguez,5.0,5.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Ejido Chorohui,Chorohuito,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Ejido El Tecomate,Ejido Tecomate,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Ejido Treinta y Ocho (Ejido Treinta y Ochito),Campo Treinta Y Ochito,15.0,12.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,El Dorado No. 2,El Dorado 2,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,El Huitussi,Huitussi,40.0,35.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,El Pochote,El Pochote,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,El Progreso,El Progreso,30.0,30.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Gabriel Leyva Solano (Benito Juárez),Benito Juárez,70.0,60.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Gabriel Leyva Solano (Benito Juárez),Gabriel Leyva Solano,100.0,70.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Gabriel Leyva Solano (Benito Juárez),El Tajito,20.0,10.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Guasave,Guasave,500.0,250.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Hornos Número Dos,Los Hornos Número 2 II,5.0,5.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Javier Rojo Gómez,Rojo Gómez,40.0,35.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Juan José Ríos,Juan José Ríos,230.0,180.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,La Brecha,La Brecha,30.0,30.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,La Pichihuila,La Pichigüila,5.0,4.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Las Cañadas Número Uno,Las Cañadas Número Uno,5.0,4.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Las Colonias (Colonia Ángel Flores),Ejido Las Colonias,5.0,4.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Las Culebras,Las Culebras - Las Flores,5.0,4.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Las Pitahayitas,Las Pitahayitas,5.0,4.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Miguel Alemán,Miguel Alemán,40.0,35.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,San Pascual,San Pascual,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,San Rafael (General Miguel Valle Dávalos),San Rafael,40.0,35.0,Clarificación Convencional con Sedimentación
+Sinaloa,Guasave,Valle de Huyaqui (Los Solares),Valle de Huyaqui,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Mazatlán,Mazatlán,Los Horcones,1750.0,1950.0,Clarificación Convencional con Sedimentación
+Sinaloa,Mazatlán,Mazatlán,Miravalles,1000.0,550.0,Clarificación Convencional con Sedimentación
+Sinaloa,Mocorito,Guamuchilera Segunda,La Guamuchilera,50.0,50.0,Clarificación Convencional con Sedimentación
+Sinaloa,Mocorito,Potrero de Los Sánchez (Estación Techa),Potrero de Los Sánchez,20.0,14.0,Clarificación Convencional con Sedimentación
+Sinaloa,Mocorito,Zapotillo,Zapotillo,5.0,3.0,Clarificación Convencional con Sedimentación
+Sinaloa,Navolato,Constituyentes de Sinaloa,Constituyentes,30.0,25.0,Clarificación Convencional con Sedimentación
+Sinaloa,Navolato,Juan Aldama (El Tigre),El Tigre,40.0,30.0,Clarificación Convencional con Sedimentación
+Sinaloa,Salvador Alvarado,Caitime,Caitime,10.0,10.0,Clarificación Convencional con Sedimentación
+Sinaloa,Salvador Alvarado,Cerro Bola,Cerro Bola,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Salvador Alvarado,El Batallon de Los Montoya,Batallón de Los Montoya,5.0,5.0,Clarificación Convencional con Sedimentación
+Sinaloa,Salvador Alvarado,Guamuchil,Guamuchil,300.0,100.0,Clarificación Convencional con Sedimentación
+Sinaloa,Salvador Alvarado,Gustavo Díaz Ordaz,Gustavo Díaz Ordaz,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Salvador Alvarado,Toro Manchado,Toro Manchado,2.0,2.0,Clarificación Convencional con Sedimentación
+Sinaloa,Sinaloa,Batamote,Ejido Batamote,40.0,40.0,Clarificación Convencional con Sedimentación
+Sinaloa,Sinaloa,Ruíz Cortines No. 1,A. Ruíz Cortinez No. 1,10.0,10.0,Clarificación Convencional con Sedimentación
+Sinaloa,Sinaloa,Ruíz Cortines Número Tres,A. Ruíz Cortinez No. 3,20.0,20.0,Clarificación Convencional con Sedimentación
+Sinaloa,Sinaloa,Tobobampo,José María Morelos - Tobobampo,10.0,10.0,Clarificación Convencional con Sedimentación
+Sonora,Cajeme,Antonio Rosales,Antonio Rosales,15.0,9.1,Clarificación Convencional con Sedimentación
+Sonora,Cajeme,Ciudad Obregón,Cd. Obregón (Col. Villa Bonita),120.0,48.1,Clarificación Convencional con Sedimentación
+Sonora,Cajeme,Ciudad Obregón,Cd. Obregón I,600.0,235.4,Clarificación Convencional con Sedimentación
+Sonora,Cajeme,Ciudad Obregón,Cd. Obregón II,600.0,235.4,Clarificación Convencional con Sedimentación
+Sonora,Cajeme,Ciudad Obregón,Cd. Obregón III,600.0,351.3,Clarificación Convencional con Sedimentación
+Sonora,Cajeme,Ciudad Obregón,Cd. Obregón IV,600.0,351.3,Clarificación Convencional con Sedimentación
+Sonora,Cajeme,Colonia Allende (El Dieciocho),Col. Allende,26.8,16.1,Clarificación Convencional con Sedimentación
+Sonora,Cajeme,Kilometro Nueve (El Pueblito),Kilometro 9,10.0,3.8,Clarificación Convencional con Sedimentación
+Sonora,Cajeme,Los Hornos,Hornos,11.0,6.6,Clarificación Convencional con Sedimentación
+Sonora,Cajeme,Providencia,Providencia,18.4,3.4,Clarificación Convencional con Sedimentación
+Sonora,Empalme,Empalme,Planta Desaladora Guaymas - Empalme,200.0,199.4,Desaladora
+Sonora,Hermosillo,Hermosillo,Hermosillo II,600.0,181.6,Clarificación Convencional con Sedimentación
+Sonora,Hermosillo,Hermosillo,Hermosillo III,600.0,187.9,Clarificación Convencional con Sedimentación
+Sonora,Hermosillo,Hermosillo,Piedra Bola,1500.0,1258.9,Clarificación Convencional con Sedimentación
+Sonora,Huatabampo,Agiabampo No. Dos (El Campito),Agiabampo II,3.0,1.3,Clarificación Convencional con Sedimentación
+Sonora,Huatabampo,Agiabampo Uno,Agiabampo I,20.0,8.4,Clarificación Convencional con Sedimentación
+Sonora,Huatabampo,Juan de La Barrera,Juan de La Barrera,15.0,6.6,Clarificación Convencional con Sedimentación
+Sonora,Huatabampo,Loma de Etchoropo,Etchoropo,26.0,11.3,Clarificación Convencional con Sedimentación
+Sonora,Nacozari,Nacozari,Nacozari,40.0,30.0,Clarificación Convencional con Sedimentación
+Sonora,Ures,San Rafael,San Rafael,1.4,0.0,Ósmosis Inversa
+Tabasco,Balancán,Balancán,Balancán,100.0,85.0,Clarificación Convencional con Sedimentación
+Tabasco,Cárdenas,Cárdenas,Cárdenas,500.0,429.0,Clarificación Convencional con Sedimentación
+Tabasco,Centla,Chichicastle 1ra. Sección,Chichicastle,7.5,7.2,Clarificación Convencional con Sedimentación
+Tabasco,Centla,Chilapa Margen Izquierda 1ra. Sección,Chilapa,125.0,125.0,Clarificación Convencional con Sedimentación
+Tabasco,Centla,Frontera,Frontera,100.0,66.5,Clarificación Convencional con Sedimentación
+Tabasco,Centla,Quintin Arauz,Quintin Arauz,10.0,9.7,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Acachapan y Colmena 3ra. Sección,Acachapan y Colmena Tercera Sección,10.0,10.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Alvarado Guardacosta 2da. Sección,Alvarado Guardacosta,20.0,20.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Aztlan 1ra. Sección,Aztlan Primera Sección,10.0,10.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Aztlán 2da. Sección,Aztlán 2da Sección,10.0,10.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Aztlán 3ra. Sección (Corcho y Chilapilla),Aztlán 3ra Sección,10.0,10.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Aztlan 5ta. Sección (Palomillal),Aztlán 5ta. Sección,10.0,10.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Buena Vista Río Nuevo 1ra. Sección,Isla II,250.0,250.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Coronel Traconis (Guerrero 3ra. Seccion),Altozano,12.0,12.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Corregidora Ortíz 3ra. Sección (San Pedrito),La Isla ,250.0,250.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Dos Montes,Dos Montes,100.0,75.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Emiliano Zapata,Carrizal,1000.0,860.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Ismate y Chilapilla 1ra. Sección,Ismate y Chilapilla,10.0,10.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,IsmaTE Y Chilapilla 2da. Sección Jahuactillo,Ismate Y Chilapilla 2da. Sección,5.0,5.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Parrilla 1ra. Sección,Parrilla,500.0,450.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Plutarco Elías Calles (La Majahua),Majahua,30.0,30.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Pueblo nuevo de Las raíces,Pueblo Nuevo,50.0,50.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Villahermosa,Villahermosa,2000.0,2000.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Villahermosa,Gaviotas II,250.0,150.0,Clarificación Convencional con Sedimentación
+Tabasco,Centro,Villahermosa,Chilapa l,40.0,40.0,Clarificación Convencional con Sedimentación
+Tabasco,Cunduacán,Cunduacán,Cunduacán,100.0,78.6,Clarificación Convencional con Sedimentación
+Tabasco,Emiliano Zapata,Emiliano Zapata,Emiliano Zapata,200.0,181.0,Clarificación Convencional con Sedimentación
+Tabasco,Huimanguillo,Las Flores (Colonia Las Flores),Huimanguillo,125.0,123.2,clarificación Convencional con Sedimentación
+Tabasco,Jalapa,Clavo de La Victoria (La Unión),La Unión,5.0,4.7,Clarificación Convencional con Sedimentación
+Tabasco,Jalapa,Jalapa,Jalapa,50.0,41.1,Clarificación Convencional con Sedimentación
+Tabasco,Jonuta,Jonuta,Jonuta,50.0,50.0,Clarificación Convencional con Sedimentación
+Tabasco,Macuspana,El Bayo 1ra. Sección (Granada),El Bayo Cd Pemex,150.0,100.0,Clarificación Convencional con Sedimentación
+Tabasco,Macuspana,Macuspana,Macuspana,240.0,200.0,Clarificación Convencional con Sedimentación
+Tabasco,Nacajuca,Arroyo,El Mango I,500.0,256.2,clarificación Convencional con Sedimentación
+Tabasco,Nacajuca,Nacajuca,El Mango II,1000.0,1000.0,Clarificación Convencional con Sedimentación
+Tabasco,Nacajuca,Oxiacaque,Oxiacaque,60.0,48.6,Clarificación Convencional con Sedimentación
+Tabasco,Tacotalpa,Tacotalpa,Tacotalpa,160.0,79.0,Clarificación Convencional con Sedimentación
+Tabasco,Tacotalpa,Tacotalpa,Oxolotán,30.0,20.5,Clarificación Convencional con Sedimentación
+Tabasco,Tacotalpa,Tapijulapa,Tapijulapa,50.0,48.9,Clarificación Convencional con Sedimentación
+Tabasco,Teapa,Teapa,Teapa,160.0,152.6,Clarificación Convencional con Sedimentación
+Tabasco,Tenosique,Boca del Cerro,Boca del Cerro,5.0,4.6,Clarificación Convencional con Sedimentación
+Tabasco,Tenosique,Estapilla,Estapilla,10.0,7.7,Clarificación Convencional con Sedimentación
+Tabasco,Tenosique,Tenosique de Pino Suárez,Tenosique,300.0,280.6,Clarificación Convencional con Sedimentación
+Tamaulipas,Altamira,Altamira,Hidalgo,100.0,90.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Altamira,Altamira,Duport,500.0,450.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Altamira,Altamira,Api Altamira,15.0,10.0,Filtración Directa
+Tamaulipas,Altamira,Cuauhtémoc,Esteros - Cuauhtémoc,80.0,40.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Altamira,Ricardo Flores Magon,Ricardo Flores Magon,10.0,5.0,Filtración Directa
+Tamaulipas,Altamira,Tres de Mayo (Mata Negra),3 De Mayo,15.0,20.0,Filtración Directa
+Tamaulipas,Camargo,Ciudad Camargo,Cd. Camargo,40.0,40.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Camargo,López y Nuevo Cadillo,Nuevo Cadillo,1.0,1.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Camargo,Los Comales,Comales,20.0,15.0,Clarificación Convencional con Sedimentación
+Tamaulipas,El Mante,El Camotero Dos (Camotero),Camotero,35.0,30.0,Filtración Directa
+Tamaulipas,El Mante,El Limon,Planta Limón - Altamirano,40.0,30.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Gómez Farías,Guadalupe Victoria,Guadalupe Victoria,3.0,3.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Gómez Farías,La Tasqueña,La Taxqueña,2.0,2.0,Clarificación Convencional con Sedimentación
+Tamaulipas,González,Adolfo Ruíz Cortines,Adolfo Ruíz Cortines,6.0,6.0,Filtración Directa
+Tamaulipas,González,Emiliano Zapata,Emiliano Zapata,1.0,1.0,Filtración Directa
+Tamaulipas,González,Francisco I. Madero Dos,Francisco I. Madero,12.0,12.0,Filtración Directa
+Tamaulipas,González,Graciano Sánchez,Graciano Sánchez,27.0,27.0,Filtración Directa
+Tamaulipas,González,Lopez Rayón,López Rayón,27.0,27.0,Filtración Directa
+Tamaulipas,Guerrero,Nueva Ciudad Guerrero,Guerrero,37.0,25.0,Filtración Lenta
+Tamaulipas,Gustavo Díaz Ordaz,Ciudad Gustavo Díaz Ordaz,Díaz Ordaz,100.0,61.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Matamoros,El Refugio,El Refugio,10.0,10.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Matamoros,Heroica Matamoros,Potabilizadora I,1200.0,800.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Matamoros,Heroica Matamoros,Potabilizadora II,1400.0,900.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Matamoros,Heroica Matamoros,Potabilizadora Paquete I,100.0,100.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Matamoros,Heroica Matamoros,Potabilizadora Paquete II,100.0,100.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Matamoros,Rancho Viejo,Rancho Viejo,250.0,237.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Mier,Mier,Mier,60.0,55.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Miguel Alemán,Ciudad Miguel Alemán,Miguel Alemán,100.0,100.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Miguel Alemán,Ciudad Miguel Alemán,Miguel Alemán,200.0,100.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Miguel Alemán,Los Guerra,Los Guerra,100.0,50.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Nuevo Laredo,Nuevo Laredo,Planta Centro,2000.0,1650.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Nuevo Laredo,Nuevo Laredo,Sur - Oriente,600.0,600.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Nuevo Laredo,Nuevo Laredo,Planta Norte,200.0,155.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Reynosa,Los Cavazos,Cavazos,10.0,8.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Reynosa,Reynosa,Benito Juarez,750.0,500.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Reynosa,Reynosa,Pastor Lozano (Loma Linda),1500.0,1500.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Reynosa,Reynosa,Rancho Grande,250.0,180.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Río Bravo,Buenavista (Charco Azul),Buenavista,1.0,1.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Río Bravo,Ciudad Río Bravo,Río Bravo,650.0,550.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Río Bravo,Emilio Portes Gil,Portes Gil,5.0,5.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Río Bravo,La Posta,La Posta,1.0,1.0,Ósmosis Inversa
+Tamaulipas,Río Bravo,Santa Apolonia,Santa Apolonia,5.0,5.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Soto La Marina,Soto La Marina,Soto La Marina,40.0,40.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Soto La Marina,Soto La Marina,Las Tunas,120.0,40.0,Filtración Directa
+Tamaulipas,Tampico,Tampico,La Puerta,1000.0,1000.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Tampico,Tampico,Alta Vista,2000.0,2000.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Valle Hermoso,Anahuac,Anahuac,25.0,25.0,clarificación Convencional con Sedimentación
+Tamaulipas,Valle Hermoso,El Realito,El Realito,30.0,30.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Valle Hermoso,Magueyes (B-120 Entre Valle Hermoso y  S 85),Magueyes,10.0,10.0,Ablandamiento
+Tamaulipas,Valle Hermoso,Valle Hermoso,Valle Hermoso,240.0,200.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Victoria,Ciudad Victoria,Ciudad Victoria,1000.0,850.0,Filtración Directa
+Tamaulipas,Xicoténcatl,Emiliano Zapata,Emiliano Zapata,5.0,5.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Xicoténcatl,La Azteca,El Azteca,2.0,2.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Xicoténcatl,Narciso Mendoza Uno,Narciso Mendoza,3.0,2.0,Clarificación Convencional con Sedimentación
+Tamaulipas,Xicoténcatl,Xicoténcatl,Xicoténcatl,80.0,40.0,clarificación Convencional con Sedimentación
+Tlaxcala,Panotla,Jesús Acatitla,Jesus Acatitla,5.0,1.7,Filtración Directa
+Tlaxcala,Terrenate,Colonia El Capulin,El Capulin,2.0,0.9,Filtración Directa
+Tlaxcala,Totolac,Santiago Tepeticpac,Santiago Tepeticpac,5.0,1.3,Filtración Directa
+Tlaxcala,Totolac,Santiago Tepeticpac,Santiago Tepeticpac,5.0,1.3,Filtración Directa
+Veracruz-Llave,Banderilla,Banderilla,La Martinica,50.0,50.0,Otro
+Veracruz-Llave,Coatzacoalcos,Coatzacoalcos,Yuribia,2000.0,650.0,Filtración Directa
+Veracruz-Llave,Coatzintla,Coatzintla,Potabilizadora de Coatzintla,200.0,200.0,Clarificación Convencional con Sedimentación
+Veracruz-Llave,Juan Rodriguez Clara,Juan Rodriguez Clara,Juan Rodríguez Clara,50.0,50.0,Clarificación Convencional con Sedimentación
+Veracruz-Llave,Medellín,El Tejar,Tejar I,350.0,220.0,Clarificación Convencional con Sedimentación
+Veracruz-Llave,Medellín,El Tejar,Tejar II,1500.0,1150.0,Clarificación Convencional con Sedimentación
+Veracruz-Llave,Orizaba,Orizaba,Citlali,300.0,270.0,Clarificación Convencional con Sedimentación
+Veracruz-Llave,Pánuco,Pánuco,Pánuco,200.0,150.0,Clarificación Convencional con Sedimentación
+Veracruz-Llave,Pánuco,Tamos,Tamos,110.0,100.0,Clarificación Convencional con Sedimentación
+Veracruz-Llave,Poza Rica de hidalgo,Poza Rica de Hidalgo,Poza Rica,1400.0,625.0,Clarificación Convencional con Sedimentación
+Veracruz-Llave,Pueblo Viejo,Cd. Cuauhtémoc,Pueblo Viejo,200.0,150.0,Clarificación Convencional con Sedimentación
+Veracruz-Llave,Teocelo,Teocelo,Teocelo,40.0,40.0,Clarificación Convencional con Sedimentación
+Veracruz-Llave,Tuxpan,Túxpam de Rodríguez Cano,Tuxpan,360.0,290.0,Clarificación Convencional con Sedimentación
+Veracruz-Llave,Xalapa,Xalapa-Enríquez,Xalapa,1060.0,1000.0,Clarificación Convencional con Sedimentación
+Yucatan,Mérida,Mérida,Mérida I,1375.0,1200.0,Otro
+Yucatan,Mérida,Mérida,Mérida II,550.0,400.0,Otro
+Yucatan,Mérida,Mérida,Mérida III,1050.0,935.0,Otro
+Yucatan,Mérida,Mérida,Mérida IV,560.0,400.0,Otro
+Zacatecas,Apozol,Colonia Juárez,Colonia Juárez,0.1,0.1,Ósmosis Inversa
+Zacatecas,Apozol,San Miguel (Atotonilco),San Miguel de Atotonilco,0.1,0.1,Ósmosis Inversa
+Zacatecas,Apulco,Apulco,Planta Apulco,0.2,0.2,Ósmosis Inversa
+Zacatecas,Apulco,La Chaveña,La Chaveña,0.1,0.1,Ósmosis Inversa
+Zacatecas,Apulco,Pastoria,Pastoria,0.1,0.1,Ósmosis Inversa
+Zacatecas,Apulco,Tenayuca,Tenayuca,0.1,0.1,Ósmosis Inversa
+Zacatecas,Calera,Ramon López Velarde (Turibio),Ramon López Velarde (Turibio),0.2,0.2,Ósmosis Inversa
+Zacatecas,Cañitas de Felipe Pescador,Cañitas de Felipe Pescador,Cañitas de Felipe Pescador,0.1,0.1,Ósmosis Inversa
+Zacatecas,Cañitas de Felipe Pescador,Enrique Estrada,Enrique Estrada,0.1,0.1,Ósmosis Inversa
+Zacatecas,Concepción del Oro,Cienega de Rocamontes,Ciénega de Rocamontes,0.1,0.1,Ósmosis Inversa
+Zacatecas,Concepción del Oro,Concepción del Oro,Concepción del Oro,0.1,0.1,Ósmosis Inversa
+Zacatecas,Concepción del Oro,El Durazno,Planta el Durazno,0.1,0.1,Ósmosis Inversa
+Zacatecas,Concepción del Oro,Las Huertas,Las Huertas,0.1,0.1,Ósmosis Inversa
+Zacatecas,El Salvador,El Salvador,El Salvador,0.2,0.2,Ósmosis Inversa
+Zacatecas,El Salvador,General Gertrudis Sánchez (Santa Rita),Gertrudis Sánchez,0.1,0.1,Ósmosis Inversa
+Zacatecas,El Salvador,Tanque Nuevo,Tanque Nuevo,0.1,0.1,Ósmosis Inversa
+Zacatecas,Fresnillo,Col. Guanajuato,Col. Guanajuato,0.1,0.1,Ósmosis Inversa
+Zacatecas,Fresnillo,Ermita de Guadalupe,Ermita de Guadalupe,0.1,0.1,Ósmosis Inversa
+Zacatecas,Fresnillo,Francisco García Salinas (La Larga),Francisco García Salinas(LA LARGA),0.1,0.1,Ósmosis Inversa
+Zacatecas,Fresnillo,Fresnillo,Proaño,126.0,126.0,Ósmosis Inversa
+Zacatecas,Fresnillo,Mendoza,Mendoza,0.1,0.1,Ósmosis Inversa
+Zacatecas,Fresnillo,Organos,organos,0.1,0.1,Adsorción
+Zacatecas,Fresnillo,San José del Quelite,San José del Quelite,0.1,0.1,Ósmosis Inversa
+Zacatecas,Genaro Codina ,Las Tinajas ,Las Tinajas,0.2,0.2,Ósmosis Inversa
+Zacatecas,General Francisco R. Murguía,Colonia Benito Juárez (El Tulillo),Planta El Tulillo,0.1,0.1,Ósmosis Inversa
+Zacatecas,General Francisco R. Murguía,Colonia Chapultepec,Colonia Chapultepec,0.1,0.1,Ósmosis Inversa
+Zacatecas,General Francisco R. Murguía,El Ancon,El Ancon,0.1,0.1,Ósmosis Inversa
+Zacatecas,General Francisco R. Murguía,La Estanzuela,La Estanzuela,0.1,0.1,Ósmosis Inversa
+Zacatecas,General Francisco R. Murguía,Luis Moya (mellillas),Luis Moya (mellillas),0.1,0.1,Ósmosis Inversa
+Zacatecas,General Francisco R. Murguía,Miguel Hidalgo,Miguel Hidalgo,0.1,0.1,Ósmosis Inversa
+Zacatecas,General Francisco R. Murguía,Orán,Orán,0.1,0.1,Ósmosis Inversa
+Zacatecas,General Francisco R. Murguía,Pacheco (Estación Pacheco),Estación Pacheco,0.1,0.1,Ósmosis Inversa
+Zacatecas,General Francisco R. Murguía,San Lucas,San Lucas,0.1,0.1,Ósmosis Inversa
+Zacatecas,General Francisco R. Murguía,"SAUZ, EL",El Sauz,0.1,0.1,Ósmosis Inversa
+Zacatecas,General Francisco R. Murguía,Valenciana,Valenciana,0.1,0.1,Adsorción
+Zacatecas,General Pánfilo Natera,General Pánfilo Natera,Pánfilo Natera,0.2,0.2,Ósmosis Inversa
+Zacatecas,Guadalupe,Santa Mónica,Planta Santa Mónica,0.1,0.1,Ósmosis Inversa
+Zacatecas,Huanusco,Arellanos,Arellano,1.2,1.2,Ósmosis Inversa
+Zacatecas,Huanusco,Huanusco,Huanusco,0.2,0.2,Ósmosis Inversa
+Zacatecas,Jalpa,"CARACOL, EL",El Caracol,0.1,0.1,Ósmosis Inversa
+Zacatecas,Jerez,Jerez de García Salinas,Jerez de G. S.,0.4,0.4,Ósmosis Inversa
+Zacatecas,Jiménez del Teul,El Carrizo,El Carrizo,0.1,0.1,Ósmosis Inversa
+Zacatecas,Juchipila,La cantera (Cantera de Arriba) - La Caballeria - San José (San José de Melendez) - El paisano - El Rescoldo,La Cantera,1.2,1.2,Ósmosis Inversa
+Zacatecas,Luis Moya,Col. Julian Adame (Charco de la Gallina),Col. Julian Adame (Charco de la Gallina),0.1,0.1,Ósmosis Inversa
+Zacatecas,Luis Moya,Los Pocitos,Los Pocitos,0.1,0.1,Ósmosis Inversa
+Zacatecas,Luis Moya,Luis Moya,Luis Moya,0.2,0.2,Ósmosis Inversa
+Zacatecas,Luis Moya,Noria de Molinos,Noria de Molinos,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,Banderita Dos,Banderita II,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,BONANZA,Bonanza,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,Concepción de la Norma,Concepción de La Norma,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,El Cardito,Planta El Cardito,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,Estación Camacho,Estación Camacho,0.2,0.2,Ósmosis Inversa
+Zacatecas,Mazapil,Estación Opal,Planta Opal,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,Estanque Gallegos (Gallegos),Gallegos,0.1,0.1,Filtración Lenta
+Zacatecas,Mazapil,Gruñidora,Planta Gruñidora,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,La palmilla,La palmilla,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,Majoma,Majoma,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,Marianitas (María elías de Rodríguez),Marianita,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,Noria del Junco (El Junco),Planta El Junco,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,Nuevo Tampico,Planta Nuevo Tampico,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,Presa del Junco,Planta Presa del Junco,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,San Elías de la Cardona,San Elías de la Cardona,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,San Felipe Nuevo Mercurio (El Nuevo),San Felipe de Nuevo Mercurio,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,San Rafael (José María Morelos),San Rafael ,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,Santa Rosa (San Francisco,Santa rosa,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mazapil,Terminal de Providencia (Terminal),Terminal,0.1,0.1,Ósmosis Inversa
+Zacatecas,Melchor Ocampo,El Cargadero,El Cargadero,0.1,0.1,Ósmosis Inversa
+Zacatecas,Melchor Ocampo,El Jagüey,Planta el Jagüey,0.1,0.1,Ósmosis Inversa
+Zacatecas,Melchor Ocampo,Matamoros,Matamoros,0.1,0.1,Ósmosis Inversa
+Zacatecas,Melchor Ocampo,Melchor Ocampo,Planta Melchor Ocampo,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mezquital del Oro,El Ocote,El Ocote,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mezquital del Oro,El Temazcal,El Temazcal,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mezquital del Oro,Huerta Grande- Ojo de Agua - El Tanque - Agua Tibia uno - las mesas,Huerta Grande- Ojo de Agua - El Tanque - Agua Tibia uno - las mesas,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mezquital del Oro,Las Animas,Las Animas,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mezquital del Oro,Los Arroyo,Los Arroyo,0.1,0.1,Ósmosis Inversa
+Zacatecas,Mezquital del Oro,Mezquital del Oro,Mezquital del Oro,0.1,0.1,Ósmosis Inversa
+Zacatecas,Moyahua,Barranca del Rio (El Potrero),Barranca del Rio (El Potrero),0.1,0.1,Ósmosis Inversa
+Zacatecas,Moyahua,Mezquituta,Mezquituta,0.1,0.1,Ósmosis Inversa
+Zacatecas,Nochistlan de Mejia,El Molino,El Molino,0.1,0.1,Ósmosis Inversa
+Zacatecas,Noria de Ángeles,Estación Genaro,Estación Genaro,0.1,0.1,Ósmosis Inversa
+Zacatecas,Noria de Ángeles,Noria de Angeles,Noria de Angeles,0.1,0.1,Ósmosis Inversa
+Zacatecas,Noria de Ángeles,Playas del Refugio ,Playas del Refugio,0.1,0.1,Ósmosis Inversa
+Zacatecas,Ojocaliente,La Concepción,La Concepción,0.1,0.1,Ósmosis Inversa
+Zacatecas,Ojocaliente,Pozo de Jarillas,Pozo de Jarillas,0.2,0.2,Ósmosis Inversa
+Zacatecas,Ojocaliente,San Cristóbal,San Cristóbal,0.8,0.8,Ósmosis Inversa
+Zacatecas,Ojocaliente,Sauceda de Mulatos,Sauceda de Mulatos,0.8,0.8,Ósmosis Inversa
+Zacatecas,Pánuco,los Pozos,los Pozos,1.2,1.2,Ósmosis Inversa
+Zacatecas,Pinos,Bajio de Manuelillo,Bajio de Manuelillo,0.8,0.8,Ósmosis Inversa
+Zacatecas,Pinos,El Bravo,El Bravo,0.2,0.2,Ósmosis Inversa
+Zacatecas,Pinos,Guadalupe de los Sauces,Guadalupe de Los Sauces,0.1,0.1,Ósmosis Inversa
+Zacatecas,Pinos,Guadalupe Victoria (Tierra Bofa),Guadalupe Victoria (Tierra Bofa),0.1,0.1,Ósmosis Inversa
+Zacatecas,Pinos,La Escondida,La Escondida,0.8,0.8,Ósmosis Inversa
+Zacatecas,Pinos,San Juan de la Palma,San Juan de la Palma,0.1,0.1,Ósmosis Inversa
+Zacatecas,Pinos,Santa Elena,Santa Elena,0.1,0.1,Ósmosis Inversa
+Zacatecas,Pinos,Santa Fe,Santa Fe,0.1,0.1,Ósmosis Inversa
+Zacatecas,Río Grande,Ignacio López Rayón (Los Delgado),Ignacio López Rayon (Los Delga,0.1,0.1,Ósmosis Inversa
+Zacatecas,Río Grande,La Florida,La Florida,0.2,0.2,Ósmosis Inversa
+Zacatecas,Río Grande,Las Piedras,Las Piedras,0.1,0.1,Ósmosis Inversa
+Zacatecas,Río Grande,Los condes,Los Conde,0.1,0.1,Ósmosis Inversa
+Zacatecas,Río Grande,Los Ramírez,Planta Los Ramírez,0.2,0.2,Ósmosis Inversa
+Zacatecas,Río Grande,Tierra Blanca,Tierra Blanca,0.1,0.1,Ósmosis Inversa
+Zacatecas,Sain Alto,Río de Medina,Planta Río Medina,0.2,0.2,Ósmosis Inversa
+Zacatecas,Sombrerete,Charco Blanco,Charco Blanco,0.1,0.1,Ósmosis Inversa
+Zacatecas,Sombrerete,Luis Echeverría,Luis Echeverria,0.1,0.1,Ósmosis Inversa
+Zacatecas,Sombrerete,San Antonio El Arenal (San Antonio de T.),San Antonio El Arenal,0.1,0.1,Ósmosis Inversa
+Zacatecas,Tabasco,La Cantera,La Cantera,0.1,0.1,Ósmosis Inversa
+Zacatecas,Tabasco,Remudadero de Arriba,Remudadero de Arriba,0.1,0.1,Ósmosis Inversa
+Zacatecas,Tabasco,Tabasco,Tabasco,0.2,0.2,Ósmosis Inversa
+Zacatecas,Tlaltenango de Sánchez Román,Jesús María,JESÚS MARÍA,0.1,0.1,Ósmosis Inversa
+Zacatecas,Tlaltenango de Sánchez Román,Salazares,Salazares,0.1,0.1,Ósmosis Inversa
+Zacatecas,Trancoso,Los Insurgentes (La Puerta de Fierro),Los Insurgentes,0.8,0.8,Adsorción
+Zacatecas,Valparaíso,Corralitos,Corralitos,0.1,0.1,Filtración Lenta
+Zacatecas,Valparaíso,Paso de Huasamota,Paso de Huasamota,0.1,0.1,Ósmosis Inversa
+Zacatecas,Valparaíso,San Pedro de la Sierra,San Pedro,0.1,0.1,Ósmosis Inversa
+Zacatecas,Valparaíso,San Rafael de las Tablas,San Rafael de Las Tablas,0.1,0.1,Ósmosis Inversa
+Zacatecas,Valparaíso,Valparaíso,Valparaíso,0.2,0.2,Ósmosis Inversa
+Zacatecas,Villa de Cos,Aldea de Codornices (Jesús María),Aldea de Codornices,0.1,0.1,Ósmosis Inversa
+Zacatecas,Villa de Cos,Cervantes,Cervantes,0.2,0.2,Ósmosis Inversa
+Zacatecas,Villa de Cos,Charquillos,Charquillos,0.1,0.1,Ósmosis Inversa
+Zacatecas,Villa de Cos,Col. Alfonso Garzon Santibañez  (El Maleficio),Alfonso Garzon Santibañez ,0.1,0.1,Ósmosis Inversa
+Zacatecas,Villa de Cos,Efigenia,Planta Efigenia,0.1,0.1,Ósmosis Inversa
+Zacatecas,Villa de Cos,El Rucio,Planta El Rucio,0.2,0.2,Ósmosis Inversa
+Zacatecas,Villa de Cos,Estancia la Colorada,Planta Estancia la Colorada,0.1,0.1,Ósmosis Inversa
+Zacatecas,Villa de Cos,Guadalupe de las Corrientes,Planta Las Corrientes,0.1,0.1,Ósmosis Inversa
+Zacatecas,Villa de Cos,La Colorada (Estación La Colorada),Planta La Colorada,0.1,0.1,Ósmosis Inversa
+Zacatecas,Villa de Cos,Manganita,Manganita,0.1,0.1,Adsorción
+Zacatecas,Villa de Cos,Noria del Burro,NORIA DEL BURRO,0.1,0.1,Ósmosis Inversa
+Zacatecas,Villa de Cos,Nueva Pastoria (Las Peñitas) ,Nueva Pastoria ,0.1,0.1,Ósmosis Inversa
+Zacatecas,Villa de Cos,Primero de Mayo (San Juan de Ulua),Primero de Mayo,0.1,0.1,Ósmosis Inversa
+Zacatecas,Villa de Cos,San Antonio de la Rosa (San Antonio),San Antonio de La Rosa,0.1,0.1,Ósmosis Inversa
+Zacatecas,Villa de Cos,Villa de Cos,Villa de Cos,0.2,0.2,Ósmosis Inversa
+Zacatecas,Villanueva,San José y Las Pilas,San José y Las Pilas,0.1,0.1,Ósmosis Inversa
+Zacatecas,Zacatecas,Rancho Nuevo,Rancho nuevo,0.1,0.1,Ósmosis Inversa
+,,,,,,
+,,,978,"151,329.84","112,793.56",
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
